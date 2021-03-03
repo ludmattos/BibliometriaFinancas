@@ -1,0 +1,1394 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Wamba, SF
+   Queiroz, MM
+   Wu, LW
+   Sivarajah, U
+AF Wamba, Samuel Fosso
+   Queiroz, Maciel M.
+   Wu, Lunwen
+   Sivarajah, Uthayasankar
+TI Big data analytics-enabled sensing capability and organizational
+   outcomes: assessing the mediating effects of business analytics culture
+SO ANNALS OF OPERATIONS RESEARCH
+LA English
+DT Article; Early Access
+DE Data analytics; Dynamic capabilities; Data-driven culture;
+   Organizational outcomes; Sensing capabilities
+ID RESOURCE-BASED VIEW; PARTIAL LEAST-SQUARES; FIRM PERFORMANCE; SUPPLY
+   CHAIN; PREDICTIVE ANALYTICS; DYNAMIC CAPABILITIES; PLS-SEM;
+   COLLABORATIVE PERFORMANCE; OPERATIONS MANAGEMENT; DECISION-MAKING
+AB With the emergence of information and communication technologies, organizations worldwide have been putting in meaningful efforts towards developing and gaining business insights by combining technology capability, management capability and personnel capability to explore data potential, which is known as big data analytics (BDA) capability. In this context, variables such as sensing capability-which is related to the organization's ability to explore the market and develop opportunities-and analytics culture-which refers to the organization's practices and behavior patterns of its analytical principles-play a fundamental role in BDA initiatives. However, there is a considerable literature gap concerning the effects of BDA-enabled sensing capability and analytics culture on organizational outcomes (i.e., customer linking capability, financial performance, market performance, and strategic business value) and on how important the organization's analytics culture is as a mediator in the relationship between BDA-enabled sensing capability and organizational outcomes. Therefore, this study aims to investigate these relationships. And to attain this goal, we developed a conceptual model supported by dynamics capabilities, BDA, and analytics culture. We then validated our model by applying partial least squares structural equation modeling. The findings showed not only the positive effect of the BDA-enabled sensing capability and analytics culture on organizational outcomes but also the mediation effect of the analytics culture. Such results bring valuable theoretical implications and contributions to managers and practitioners.
+C1 [Wamba, Samuel Fosso] TBS Business Sch, 1 Pl Alphonse Jourdain, F-31068 Toulouse, France.
+   [Queiroz, Maciel M.] Paulista Univ UNIP, Postgrad Program Business Adm, BR-04026002 Sao Paulo, Brazil.
+   [Wu, Lunwen] Southwestern Univ Finance & Econ, Sch Business Adm, Chengdu 610074, Sichuan, Peoples R China.
+   [Sivarajah, Uthayasankar] Univ Bradford, Fac Management Law & Social Sci, Richmond Rd, Bradford BD7 1DP, W Yorkshire, England.
+RP Wu, LW (corresponding author), Southwestern Univ Finance & Econ, Sch Business Adm, Chengdu 610074, Sichuan, Peoples R China.
+EM s.fosso-wamba@tbs-education.fr; maciel.queiroz@docente.unip.br;
+   wulunwen@swufe.edu.cn; U.Sivarajah@bradford.ac.uk
+CR Aboelmaged M, 2020, INFORM PROCESS MANAG, V57, DOI 10.1016/j.ipm.2020.102234
+   Akter S, 2020, ANN OPER RES, DOI 10.1007/s10479-020-03620-w
+   Akter S, 2019, INT J INFORM MANAGE, V48, P85, DOI 10.1016/j.ijinfomgt.2019.01.020
+   Akter S, 2019, ANN OPER RES, V283, P939, DOI 10.1007/s10479-017-2584-2
+   Akter S, 2017, PROD PLAN CONTROL, V28, P1011, DOI 10.1080/09537287.2016.1267411
+   Akter S, 2016, INT J PROD ECON, V182, P113, DOI 10.1016/j.ijpe.2016.08.018
+   Akter S, 2016, ELECTRON MARK, V26, P173, DOI 10.1007/s12525-016-0219-0
+   Alinaghian L, 2020, IND MARKET MANAG, V85, P110, DOI 10.1016/j.indmarman.2019.10.003
+   Aloysius JA, 2018, ANN OPER RES, V270, P25, DOI 10.1007/s10479-016-2276-3
+   Alshanty AM, 2019, J INNOV KNOWL, V4, P171, DOI 10.1016/j.jik.2019.02.002
+   Arunachalam D, 2018, TRANSPORT RES E-LOG, V114, P416, DOI 10.1016/j.tre.2017.04.001
+   BARNEY J, 1991, J MANAGE, V17, P99, DOI 10.1177/014920639101700108
+   Likoum SWB, 2020, J KNOWL ECON, V11, P593, DOI 10.1007/s13132-018-0561-x
+   Boone CA, 2018, ANN OPER RES, V270, P65, DOI 10.1007/s10479-016-2314-1
+   DAY GS, 1994, J MARKETING, V58, P37, DOI 10.2307/1251915
+   Duan YQ, 2020, EUR J OPER RES, V281, P673, DOI 10.1016/j.ejor.2018.06.021
+   Dubey R, 2020, INT J PROD ECON, V226, DOI 10.1016/j.ijpe.2019.107599
+   Dubey R, 2019, INT J PROD ECON, V210, P120, DOI 10.1016/j.ijpe.2019.01.023
+   Dubey R, 2019, BRIT J MANAGE, V30, P341, DOI 10.1111/1467-8551.12355
+   Dubey R, 2018, J CLEAN PROD, V196, P1508, DOI 10.1016/j.jclepro.2018.06.097
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Gandomi A, 2015, INT J INFORM MANAGE, V35, P137, DOI 10.1016/j.ijinfomgt.2014.10.007
+   GRANT RM, 1991, CALIF MANAGE REV, V33, P114, DOI 10.2307/41166664
+   Gregor S, 2006, J STRATEGIC INF SYST, V15, P249, DOI 10.1016/j.jsis.2006.04.001
+   Guha S, 2018, PROD OPER MANAG, V27, P1724, DOI 10.1111/poms.12833
+   Gupta M, 2016, INFORM MANAGE-AMSTER, V53, P1049, DOI 10.1016/j.im.2016.07.004
+   Gupta S, 2019, ANN OPER RES, V283, P1153, DOI 10.1007/s10479-017-2671-4
+   Hair J.F., 2017, PRIMER PARTIAL LEAST, V2nd ed.
+   Hair JF, 2014, EUR BUS REV, V26, P106, DOI 10.1108/EBR-10-2013-0128
+   Hair JF, 2019, EUR BUS REV, V31, P2, DOI 10.1108/EBR-11-2018-0203
+   Hallikainen H, 2020, IND MARKET MANAG, V86, DOI 10.1016/j.indmarman.2019.12.005
+   Hassna G., 2018, AM C INF SYST 2018 D
+   Hazen BT, 2018, ANN OPER RES, V270, P201, DOI 10.1007/s10479-016-2226-0
+   Helfat CE, 2009, STRATEG ORGAN, V7, P91, DOI 10.1177/1476127008100133
+   Jha AK, 2020, DECIS SUPPORT SYST, V138, DOI 10.1016/j.dss.2020.113382
+   KIRON D, 2014, MIT SLOAN MANAGE REV, V55, P1
+   Kock N, 2019, INFORM SYST J, V29, P674, DOI 10.1111/isj.12228
+   Kock N, 2018, INFORM SYST J, V28, P227, DOI 10.1111/isj.12131
+   Krishnamoorthi S, 2018, INFORM MANAGE-AMSTER, V55, P643, DOI 10.1016/j.im.2018.01.005
+   Lin CC, 2019, J BUS RES, V105, P49, DOI 10.1016/j.jbusres.2019.07.016
+   Liu P, 2018, ANN OPER RES, V270, P255, DOI 10.1007/s10479-018-2783-5
+   Malesios C, 2020, ANN OPER RES, V294, P623, DOI 10.1007/s10479-018-3080-z
+   Manupati VK, 2020, INT J PROD RES, V58, P2222, DOI 10.1080/00207543.2019.1683248
+   Manyika J., 2011, TECHNICAL REPORT
+   Mikalef P, 2020, EUR J INFORM SYST, DOI 10.1080/0960085X.2020.1808541
+   Mikalef P, 2020, INFORM MANAGE-AMSTER, V57, DOI 10.1016/j.im.2019.05.004
+   Mikalef P, 2019, BRIT J MANAGE, V30, P272, DOI 10.1111/1467-8551.12343
+   Mikalef P, 2019, J BUS RES, V98, P261, DOI 10.1016/j.jbusres.2019.01.044
+   Mikalef P, 2018, INF SYST E-BUS MANAG, V16, P547, DOI 10.1007/s10257-017-0362-y
+   Mishra D, 2018, ANN OPER RES, V270, P313, DOI 10.1007/s10479-016-2236-y
+   Moqbel M, 2018, INFORM MANAGE-AMSTER, V55, P109, DOI 10.1016/j.im.2017.05.001
+   Morgan NA, 2009, INT J RES MARK, V26, P284, DOI 10.1016/j.ijresmar.2009.06.005
+   Nagendra NP, 2020, ANN OPER RES, DOI 10.1007/s10479-020-03593-w
+   Nam D, 2019, INT J INFORM MANAGE, V45, P233, DOI 10.1016/j.ijinfomgt.2018.01.005
+   Newbert SL, 2007, STRATEGIC MANAGE J, V28, P121, DOI 10.1002/smj.573
+   Nunnally J.C., 1978, PSYCHOMETRIC THEORY
+   Peng DX, 2012, J OPER MANAG, V30, P467, DOI 10.1016/j.jom.2012.06.002
+   Phillips-Wren G, 2015, J DECIS SYST, V24, P87, DOI 10.1080/12460125.2015.994333
+   Pinsonneault A., 1993, Journal of Management Information Systems, V10, P75
+   Prasad S, 2018, ANN OPER RES, V270, P383, DOI 10.1007/s10479-016-2280-7
+   Queiroz MM, 2020, BUS PROCESS MANAG J, V26, P1075, DOI 10.1108/BPMJ-03-2019-0134
+   Queiroz MM, 2018, INT J LOGIST MANAG, V29, P767, DOI 10.1108/IJLM-05-2017-0116
+   Raguseo E, 2018, INT J PROD RES, V56, P5206, DOI 10.1080/00207543.2018.1427900
+   Rapp A, 2010, J BUS RES, V63, P1229, DOI 10.1016/j.jbusres.2009.11.002
+   Ringle C.M., 2015, SMARTPLS 3
+   Rumelt R.P., 1984, STRATEGIC THEORY FIR, V1, P556
+   See-To EWK, 2018, ANN OPER RES, V270, P415, DOI 10.1007/s10479-016-2296-z
+   STONE M, 1974, J R STAT SOC B, V36, P111, DOI 10.1111/j.2517-6161.1974.tb00994.x
+   Teece D., 1994, IND CORP CHANGE, V3, P537, DOI DOI 10.1093/ICC/3.3.537-A
+   Teece DJ, 2007, STRATEG MANAGE J, V28, P1319, DOI 10.1002/smj.640
+   Teece DJ, 1997, STRATEGIC MANAGE J, V18, P509, DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z
+   Tippins MJ, 2003, STRATEGIC MANAGE J, V24, P745, DOI 10.1002/smj.337
+   Upadhyay P, 2020, INT J INFORM MANAGE, V52, DOI 10.1016/j.ijinfomgt.2020.102100
+   Vieira AAC, 2019, COMPUT IND ENG, V137, DOI 10.1016/j.cie.2019.106033
+   Waller MA, 2013, J BUS LOGIST, V34, P77, DOI 10.1111/jbl.12010
+   Wamba SF, 2020, INT J PROD ECON, V229, DOI 10.1016/j.ijpe.2020.107791
+   Wamba SF, 2020, INT J PROD ECON, V222, DOI 10.1016/j.ijpe.2019.09.019
+   Wamba SF, 2018, ANN OPER RES, V270, P1, DOI 10.1007/s10479-018-3024-7
+   Wamba SF, 2017, INT J OPER PROD MAN, V37, P2, DOI 10.1108/IJOPM-07-2016-0414
+   Wamba SF, 2017, J BUS RES, V70, P356, DOI 10.1016/j.jbusres.2016.08.009
+   Wang G, 2016, INT J PROD ECON, V176, P98, DOI 10.1016/j.ijpe.2016.03.014
+   Wang NX, 2012, J MANAGE INFORM SYST, V29, P325, DOI 10.2753/MIS0742-1222290211
+   Wang YC, 2018, TECHNOL FORECAST SOC, V126, P3, DOI 10.1016/j.techfore.2015.12.019
+   WERNERFELT B, 1984, STRATEGIC MANAGE J, V5, P171, DOI 10.1002/smj.4250050207
+   Zhan YZ, 2018, ANN OPER RES, V270, P577, DOI 10.1007/s10479-016-2379-x
+NR 85
+TC 0
+Z9 0
+U1 30
+U2 30
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0254-5330
+EI 1572-9338
+J9 ANN OPER RES
+JI Ann. Oper. Res.
+DI 10.1007/s10479-020-03812-4
+EA OCT 2020
+PG 20
+WC Operations Research & Management Science
+SC Operations Research & Management Science
+GA NX6BI
+UT WOS:000575793800002
+OA Green Accepted
+DA 2021-02-25
+ER
+
+PT J
+AU Teles, G
+   Rodrigues, JJPC
+   Kozlov, SA
+   Rabelo, RAL
+   Albuquerque, VHC
+AF Teles, Germanno
+   Rodrigues, Joel J. P. C.
+   Kozlov, Sergei A.
+   Rabelo, Ricardo A. L.
+   Albuquerque, Victor Hugo C.
+TI Decision support system on credit operation using linear and logistic
+   regression
+SO EXPERT SYSTEMS
+LA English
+DT Article; Early Access
+DE credit scoring; finance; linear regression; logistic regression; machine
+   learning
+ID BIG DATA; CLASSIFICATION ALGORITHMS; FINANCIAL RATIOS; SAMPLE SELECTION;
+   ANALYTICS; MODELS; RISK
+AB The act of lending is based on trust in the borrower to honour the obligation of paying back the lender. Greater spreads on credit operations may help predict the expected recovery of the credit, based on the sufficiency and liquidity of the guarantee. This study aims to understand how predictive models can provide different estimations of expected recovery based on the same data sets. It classifies credit by the formulation of a rule that describes the values of a categorical variable according to some specified definition. It finds that a simple logistic regression model can easily be extended to a multiple logistic regression model by integrating more than one prediction variable, which indicates increasing difficulty in obtaining multiple observations with an increasing number of independent variables. It compares the efficiency of the logistic regression with that of a linear regression in predicting whether recovery is due in a credit operation, and, thus, identifies the best model for this purpose.
+C1 [Teles, Germanno; Rodrigues, Joel J. P. C.] Univ Beira Interior, Inst Telecomunicacoes, P-6201001 Covilha, Portugal.
+   [Rodrigues, Joel J. P. C.; Kozlov, Sergei A.] ITMO Univ, St Petersburg, Russia.
+   [Rodrigues, Joel J. P. C.; Rabelo, Ricardo A. L.] Fed Univ Piaui UFPI, Teresina, PI, Brazil.
+   [Albuquerque, Victor Hugo C.] Univ Fortaleza UNIFOR, Fortaleza, Ceara, Brazil.
+RP Teles, G (corresponding author), Univ Beira Interior, Inst Telecomunicacoes, P-6201001 Covilha, Portugal.
+EM germanno.teles@ubi.pt
+RI de Albuquerque, Victor Hugo C./C-3677-2016; Rodrigues, Joel J. P.
+   C./A-8103-2013; de Andrade Lira Rabelo, Ricardo/AAN-3551-2020; Teles,
+   Germanno/B-5462-2018
+OI de Albuquerque, Victor Hugo C./0000-0003-3886-4309; de Andrade Lira
+   Rabelo, Ricardo/0000-0003-1482-6404; Teles,
+   Germanno/0000-0001-5995-6603; Rodrigues, Joel/0000-0001-8657-3800
+FU Brazilian National Council for Research and Development [200450/2015-8,
+   309335/2017-5]; Government of Russian Federation [08-08]; Fundacao para
+   a Ciencia e Tecnologia/Ministerio da Ciencia e Tecnologia e Ensino
+   Superior [UIDB/EEA/50008/2020]
+FX Brazilian National Council for Research and Development, Grant/Award
+   Numbers: 200450/2015-8, 309335/2017-5; Government of Russian Federation,
+   Grant/Award Number: Grant 08-08; Fundacao para a Ciencia e
+   Tecnologia/Ministerio da Ciencia e Tecnologia e Ensino Superior: Project
+   UIDB/EEA/50008/2020
+CR Abbott D., 2014, APPL PREDICTIVE ANAL, V1, P675, DOI [10.1002/ejoc.201200111, DOI 10.1002/EJOC.201200111]
+   Abdou HA, 2011, INTELL SYST ACCOUNT, V18, P59, DOI 10.1002/isaf.325
+   Abdou HA, 2009, EXPERT SYST APPL, V36, P11402, DOI 10.1016/j.eswa.2009.01.076
+   Afrabandpey H, 2014, 2014 4TH INTERNATIONAL CONFERENCE ON COMPUTER AND KNOWLEDGE ENGINEERING (ICCKE), P1, DOI 10.1109/ICCKE.2014.6993337
+   AGRESTI A., 2002, WILEY SERIES PROBABI, DOI [10.1002/0471249688, DOI 10.1002/0471249688]
+   Akkoc S, 2012, EUR J OPER RES, V222, P168, DOI 10.1016/j.ejor.2012.04.009
+   ALTMAN EI, 1968, J FINANC, V23, P589, DOI 10.2307/2978933
+   Anderson R., 2007, CREDIT SCORING TOOLK
+   Baesens B, 2003, J OPER RES SOC, V54, P627, DOI 10.1057/palgrave.jors.2601545
+   Banasik J, 2003, J OPER RES SOC, V54, P822, DOI 10.1057/palgrave.jors.2601578
+   Banasik J, 2007, EUR J OPER RES, V183, P1582, DOI 10.1016/j.ejor.2006.06.072
+   Bandyopadhyay A, 2006, J RISK FINANC, V7, P255, DOI 10.1108/15265940610664942
+   BEAVER WH, 1966, J ACCOUNTING RES, V4, P71, DOI 10.2307/2490171
+   Bellotti T, 2009, J OPER RES SOC, V60, P1699, DOI 10.1057/jors.2008.130
+   Berry M.J.A., 2004, DATA MINING TECHNIQU
+   Bonnes K., 2014, P BPM DEM SESS 2014
+   Bottou L, 2018, SIAM REV, V60, P223, DOI 10.1137/16M1080173
+   BOYES WJ, 1989, J ECONOMETRICS, V40, P3, DOI 10.1016/0304-4076(89)90026-2
+   Brown I, 2012, EXPERT SYST APPL, V39, P3446, DOI 10.1016/j.eswa.2011.09.033
+   BURR D, 1988, J AM STAT ASSOC, V83, P739, DOI 10.2307/2289299
+   Calvert CE, 2014, OPEN LEARN, V29, P160, DOI 10.1080/02680513.2014.931805
+   Chatterjee S., 2006, REGRESSION ANAL EXAM
+   Chen HC, 2012, MIS QUART, V36, P1165
+   Crook JN, 2007, EUR J OPER RES, V183, P1447, DOI 10.1016/j.ejor.2006.09.100
+   Daniel B, 2015, BRIT J EDUC TECHNOL, V46, P904, DOI 10.1111/bjet.12230
+   Desai VS, 1996, EUR J OPER RES, V95, P24, DOI 10.1016/0377-2217(95)00246-4
+   Draper NR, 1998, APPL REGRESSION ANAL, DOI [10.1002/9781118625590, DOI 10.1002/9781118625590]
+   Finlay S., 2014, PREDICTIVE ANAL DATA, DOI [10.1057/9781137379283, DOI 10.1057/9781137379283]
+   Freund R., 2006, REGRESSION ANAL
+   Gandomi A, 2015, INT J INFORM MANAGE, V35, P137, DOI 10.1016/j.ijinfomgt.2014.10.007
+   Gouvea M. A., 2007, POMS 18 ANN C
+   Greene W, 1998, JPN WORLD ECON, V10, P299, DOI 10.1016/S0922-1425(98)00030-9
+   Gualtieri M., 2015, FORRESTER RES, P1
+   Guillen M., 1996, J EMPIR FINANC, V3, P303
+   Gunasekaran A, 2017, J BUS RES, V70, P308, DOI 10.1016/j.jbusres.2016.08.004
+   Hand DJ, 1997, J R STAT SOC A STAT, V160, P523
+   Hosmer D. W., 2013, APPL LOGISTIC REGRES
+   Jadhav S. D., 2016, INT J SCI RES, P2319
+   Kantardzic M., 2011, DATA MINING CONCEPTS
+   Khondoker M, 2016, STAT METHODS MED RES, V25, P1804, DOI 10.1177/0962280213502437
+   Kleinbaum D, 2013, APPL REGRESSION ANAL
+   Koenda E., 2009, 2862C CESIFO
+   Larose D.T., 2015, DATA MINING PREDICTI
+   Leon S., 2008, LINEAR ALGEBRA APPL
+   Liaw A., 2002, CLASSIFICATION REGRE, V2, P18, DOI DOI 10.1177/154405910408300516
+   Mishra N., 2012, INT J COMPUTER SCI I, V3, P4424
+   Nasrabadi N., 2007, J ELECT IMAG, V16, DOI [10.1117/1.2819119, DOI 10.1117/1.2819119]
+   Orgler Y. E., 1970, J MONEY CREDIT BANK, V2, P435, DOI [10.2307/1991095, DOI 10.2307/1991095]
+   Quinlan J. R., 2014, C4 5 PROGRAM MACHINE
+   SRINIVASAN V, 1987, J FINANC, V42, P665, DOI 10.2307/2328378
+   STEENACKERS A, 1989, INSUR MATH ECON, V8, P31, DOI 10.1016/0167-6687(89)90044-9
+   Thomas LC, 2000, INT J FORECASTING, V16, P149, DOI 10.1016/S0169-2070(00)00034-0
+   WIGINTON JC, 1980, J FINANC QUANT ANAL, V15, P757, DOI 10.2307/2330408
+   Witten IH, 2016, DATA MINING PRACTICA
+   Zekic-Susac M, 2004, 26 INT C INF TECHN I
+NR 55
+TC 0
+Z9 0
+U1 2
+U2 8
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0266-4720
+EI 1468-0394
+J9 EXPERT SYST
+JI Expert Syst.
+AR e12578
+DI 10.1111/exsy.12578
+EA MAY 2020
+PG 19
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA LS3OP
+UT WOS:000536297600001
+DA 2021-02-25
+ER
+
+PT J
+AU Teles, G
+   Rodrigues, JJPC
+   Rabelo, RAL
+   Kozlov, SA
+AF Teles, Germanno
+   Rodrigues, Joel J. P. C.
+   Rabelo, Ricardo A. L.
+   Kozlov, Sergei A.
+TI Comparative study of support vector machines and random forests machine
+   learning algorithms on credit operation
+SO SOFTWARE-PRACTICE & EXPERIENCE
+LA English
+DT Article; Early Access
+DE Big Data; credit operation; machine learning; random forests; support
+   vector machines
+ID CLASSIFICATION
+AB Corporate insolvency has significant adverse effects on an economy. With the number of multinationals increasing rapidly, corporate bankruptcy can severely disrupt the global financial environment. However, multinationals do not fail instantaneously; objective strategies combined with a rigorous analysis of both qualitative and quantifiable data can go a long way in identifying an organization's financial risks. Recent advancements in information and communication technologies have made data collection and storage an easy task. The challenge becomes mining the appropriate data about a company's financial risks and implementing it in forecasting a company's insolvency probabilities. In recent years, machine learning has been incorporated into big data analytics owing to its massive success in learning complex models. Machine learning algorithms such as Support Vector Machines (SVM), Random Forests (RF), Artificial Neural Networks, Gaussian Processes, and Adaptive Learning have been used in the analysis of Big Data to predict the financial risks of companies. In this paper, credit scoring is explored with regards to data processed using the collateral as an independent variable. The obtained results indicate that RF algorithm is promising for use in credit risk management. This research shows the advantages of the RF approach over the SVM algorithm are its speed and operational simplicity, and SVM has the benefit of higher classification accuracy than RF. The paper compares the SVM and RF algorithms to forecast the recovered value in a credit task. The execution of the projected intelligent systems uses tests and algorithms for authentication of the projected model.
+C1 [Teles, Germanno; Rodrigues, Joel J. P. C.] Univ Beira Interior, Inst Telecomunicacoes, Covilha, Portugal.
+   [Rodrigues, Joel J. P. C.; Rabelo, Ricardo A. L.] Fed Univ Piaui UFPI, Teresina, Brazil.
+   [Rodrigues, Joel J. P. C.; Kozlov, Sergei A.] ITMO Univ, St Petersburg, Russia.
+RP Rodrigues, JJPC (corresponding author), Univ Fed Piaui, Campus Petronio Portela, BR-64049550 Teresina, PI, Brazil.
+EM joeljr@ieee.org
+RI de Andrade Lira Rabelo, Ricardo/AAN-3551-2020; Rodrigues, Joel J. P.
+   C./A-8103-2013
+OI de Andrade Lira Rabelo, Ricardo/0000-0003-1482-6404; Rodrigues,
+   Joel/0000-0001-8657-3800
+FU Conselho Nacional de Desenvolvimento Cientifico e TecnologicoNational
+   Council for Scientific and Technological Development (CNPq)
+   [309335/2017-5, 200450/2015-8]; Fundacao para a Ciencia e a
+   TecnologiaPortuguese Foundation for Science and TechnologyEuropean
+   Commission [UIDB/EEA/50008/2020]; Government of Russian Federation
+   [08-08]
+FX Conselho Nacional de Desenvolvimento Cientifico e Tecnologico,
+   Grant/Award Numbers: Grant No. 309335/2017-5, Process No. 200450/2015-8;
+   Fundacao para a Ciencia e a Tecnologia, Grant/Award Number: Project
+   UIDB/EEA/50008/2020; Government of Russian Federation, Grant/Award
+   Number: Grant No. 08-08
+CR ADAMS JB, 1995, REMOTE SENS ENVIRON, V52, P137, DOI 10.1016/0034-4257(94)00098-8
+   ALTMAN EI, 1968, J FINANC, V23, P589, DOI 10.2307/2978933
+   Antonakis AC, 2009, J APPL STAT, V36, P537, DOI 10.1080/02664760802554263
+   Aven T, 2016, EUR J OPER RES, V253, P1, DOI 10.1016/j.ejor.2015.12.023
+   Bekiroglu B., 2011, INT J ADV ENG SCI TE, V9, P273
+   Biau G, 2012, J MACH LEARN RES, V13, P1063
+   Boardman J.W., 1993, AUTOMATING SPECTRAL
+   Boser B. E., 1992, Proceedings of the Fifth Annual ACM Workshop on Computational Learning Theory, P144, DOI 10.1145/130385.130401
+   Bradley AP, 1997, PATTERN RECOGN, V30, P1145, DOI 10.1016/S0031-3203(96)00142-2
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Crone SF, 2012, INT J FORECASTING, V28, P224, DOI 10.1016/j.ijforecast.2011.07.006
+   Davutyan N, 2006, P 13 ANN ERF C, P16
+   Diederich J, 2008, STUD COMPUT INTELL, V80, P1, DOI 10.1007/978-3-540-75390-2
+   El-Shazly A, 2002, P 9 ANN C EC RES FOR, P1
+   Fassnacht FE, 2016, REMOTE SENS ENVIRON, V186, P64, DOI 10.1016/j.rse.2016.08.013
+   Fawcett T, 2006, PATTERN RECOGN LETT, V27, P861, DOI 10.1016/j.patrec.2005.10.010
+   Fitch D, 2007, DECIS SUPPORT SYST, V42, P2137, DOI 10.1016/j.dss.2006.05.008
+   Hachicha W, 2012, COMPUT IND ENG, V63, P204, DOI 10.1016/j.cie.2012.03.002
+   Jiao L, 2006, P 2 INT C ICNC 2006, P24
+   Kabari L. G., 2013, INT J ENG RES TECHNO, V2, P2738
+   Khondoker M, 2016, STAT METHODS MED RES, V25, P1804, DOI 10.1177/0962280213502437
+   Lessmann S, 2015, EUR J OPER RES, V247, P124, DOI 10.1016/j.ejor.2015.05.030
+   Lin WY, 2012, IEEE T SYST MAN CY C, V42, P421, DOI 10.1109/TSMCC.2011.2170420
+   Marques AI, 2012, EXPERT SYST APPL, V39, P10244, DOI 10.1016/j.eswa.2012.02.092
+   Pereira S, 2015, PROCEDIA COMPUT SCI, V64, P601, DOI 10.1016/j.procs.2015.08.573
+   Provost F., 1997, Proceedings of the Third International Conference on Knowledge Discovery and Data Mining, P43
+   Stalla-Bourdillon S, 2018, DATA PROTECTION PRIV, P1
+   Sweeney D., 2007, STAT BUSINESS EC
+   Witzany J, 2017, CREDIT RISK MANAGEME
+   Wu XD, 2008, KNOWL INF SYST, V14, P1, DOI 10.1007/s10115-007-0114-2
+   Zhou HH, 2013, 2013 9TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL INTELLIGENCE AND SECURITY (CIS), P174, DOI 10.1109/CIS.2013.43
+NR 31
+TC 2
+Z9 2
+U1 3
+U2 13
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0038-0644
+EI 1097-024X
+J9 SOFTWARE PRACT EXPER
+JI Softw.-Pract. Exp.
+DI 10.1002/spe.2842
+EA MAY 2020
+PG 9
+WC Computer Science, Software Engineering
+SC Computer Science
+GA LL7GR
+UT WOS:000531725300001
+DA 2021-02-25
+ER
+
+PT J
+AU Dos Anjos, JCS
+   Matteussi, KJ
+   De Souza, PRR
+   Grabher, GJA
+   Borges, GA
+   Barbosa, JLV
+   Gonzalez, GV
+   Leithardt, VRQ
+   Geyer, CFR
+AF Dos Anjos, Julio C. S.
+   Matteussi, Kassiano J.
+   De Souza, Paulo R. R., Jr.
+   Grabher, Gabriel J. A.
+   Borges, Guilherme A.
+   Barbosa, Jorge L. V.
+   Gonzalez, Gabriel V.
+   Leithardt, Valderi R. Q.
+   Geyer, Claudio F. R.
+TI Data Processing Model to Perform Big Data Analytics in Hybrid
+   Infrastructures
+SO IEEE ACCESS
+LA English
+DT Article
+DE Cloud computing; Big Data; Computational modeling; Analytical models;
+   Data models; Real-time systems; Big data analytics; cloud computing;
+   hybrid infrastructures; MapReduce; volunteer computing
+ID MAPREDUCE; CLOUD
+AB Big Data applications are present in many areas such as financial markets, search engines, stream services, health care, social networks, and so on. Data analysis provides value to information for organizations. Classical Cloud Computing represents a robust architecture to perform complex and large-scale computing for these areas. The main challenges are the user's unknowledge about Cloud infrastructure, the requirement needed for improving performance, and the resource management to maintain stable processing. In these difficulties, an inadequate solution can lead to users overestimate or underestimate the number of computational resources, which drives to the budget increases. One way to work around this problem is to make use of Volunteer Computing since it provides distributed computational resources at free monetary cost. However, a volatile machine behavior is a problem to address in Big Data data distributions. Thus, this work proposes a data distribution model composed of Cloud Computing and Volunteer Computing environments in a hybrid fashion for Big Data analytics. The contributions of this work are: i) the required evaluation to enable efficient deployment of Big Data in hybrid infrastructures; ii) the development of an HR_Alloc Algorithm for establishing the data placement to Big Data applications; iii) a model to resource allocation in hybrid infrastructures. The obtained results indicate the feasibility of using a hybrid infrastructure with up to 35% of unstable machines in the worst-case scenario, without losing performance and a monetary cost lower than 20% in comparison to Classical Cloud Computing. Also, communication costs decrease up to 57.14% in the best-case scenario due to load balancing.
+C1 [Dos Anjos, Julio C. S.; Matteussi, Kassiano J.; De Souza, Paulo R. R., Jr.; Grabher, Gabriel J. A.; Borges, Guilherme A.; Geyer, Claudio F. R.] Univ Fed Rio Grande do Sul, Inst Informat, UFRGS PPGC, BR-91501970 Porto Alegre, RS, Brazil.
+   [Barbosa, Jorge L. V.] Univ Vale Rio dos Sinos, UNISINOS, PPGCA, BR-93022750 Sao Leopoldo, Brazil.
+   [Gonzalez, Gabriel V.] Univ Salamanca, Expert Syst & Applicat Lab, Fac Sci, Salamanca 37008, Spain.
+   [Leithardt, Valderi R. Q.] Inst Politecn Portalegre, VALORIZA Res Ctr, P-7300110 Portalegre, Portugal.
+   [Leithardt, Valderi R. Q.] Univ Vale Itajai, Lab Embedded & Distributed Syst, BR-88302901 Itajai, SC, Brazil.
+   [Leithardt, Valderi R. Q.] Univ Lusofona Humanidades & Tecnol, COPELABS, P-1700097 Lisbon, Portugal.
+RP Dos Anjos, JCS (corresponding author), Univ Fed Rio Grande do Sul, Inst Informat, UFRGS PPGC, BR-91501970 Porto Alegre, RS, Brazil.
+EM jcsanjos@inf.ufrgs.br
+RI Leithardt, Valderi Reis Quietinho/M-5443-2019; Anjos, Julio/I-4821-2017
+OI Leithardt, Valderi Reis Quietinho/0000-0003-0446-9271; Anjos,
+   Julio/0000-0003-3623-2762; Matteussi, Kassiano Jose/0000-0002-9131-6849;
+   Laboratory of Embedded and Distributed Systems, LEDS
+   -/0000-0001-8768-2822; J.A. Grabher, Gabriel/0000-0001-9415-7591
+FU SmartSent [17/2551-0001 195-3]; CAPESCAPES [001]; PNPD program;
+   CNPqNational Council for Scientific and Technological Development
+   (CNPq); PROPESQ-UFRGS-Brasil; FAPERGS Project "GREEN-CLOUD - Computacao
+   em Cloud com Computacao Sustentavel" [16/2551-0000 488-9]; Junta De
+   Castilla y Leon-Consejeria De Economia Y Empleo: System for simulation
+   and training in advanced techniques for the occupational risk prevention
+   through the design of hybrid-reality environments [J118]; Fundacao para
+   a Ciencia e a TecnologiaPortuguese Foundation for Science and
+   TechnologyEuropean Commission [UIDB/04111/2020]
+FX This work was supported in part by "SmartSent" (#17/2551-0001 195-3),
+   CAPES (Finance Code 001), PNPD program, CNPq, PROPESQ-UFRGS-Brasil and
+   FAPERGS Project "GREEN-CLOUD - Computacao em Cloud com Computacao
+   Sustentavel" (#16/2551-0000 488-9), and in part by the Junta De Castilla
+   y Leon-Consejeria De Economia Y Empleo: System for simulation and
+   training in advanced techniques for the occupational risk prevention
+   through the design of hybrid-reality environments with ref J118 and by
+   Fundacao para a Ciencia e a Tecnologia under Project UIDB/04111/2020.
+CR Alexandrov A, 2014, VLDB J, V23, P939, DOI 10.1007/s00778-014-0357-y
+   Anderson D. P., 2019, ARXIV190301699
+   Anjos JCS, 2018, PROCEEDINGS 2018 INTERNATIONAL CONFERENCE ON HIGH PERFORMANCE COMPUTING & SIMULATION (HPCS), P869, DOI 10.1109/HPCS.2018.00140
+   Anjos JCS, 2016, CONCURR COMP-PRACT E, V28, P2416, DOI 10.1002/cpe.3665
+   Anjos JCS, 2015, FUTURE GENER COMP SY, V42, P22, DOI 10.1016/j.future.2014.09.001
+   Assuncao MD, 2015, J PARALLEL DISTR COM, V79-80, P3, DOI 10.1016/j.jpdc.2014.08.003
+   Badger L., 2012, 800146 NIST, DOI [10.6028/NIST.SP.800-146, DOI 10.6028/NIST.SP.800-146]
+   Buyya R., 2011, CLOUD COMPUING, V1
+   Chen WH, 2021, IEEE T ENG MANAGE, V68, P120, DOI 10.1109/TEM.2020.2971717
+   Clemente-Castello FJ, 2015, INT CONF UTIL CLOUD, P290, DOI 10.1109/UCC.2015.47
+   Darrous J., 2019, P INT C COMP COMM NE, P1
+   de Souza PRR, 2018, PROCEEDINGS 2018 INTERNATIONAL CONFERENCE ON HIGH PERFORMANCE COMPUTING & SIMULATION (HPCS), P585, DOI 10.1109/HPCS.2018.00098
+   Dean J, 2010, COMMUN ACM, V53, P72, DOI 10.1145/1629175.1629198
+   dos Anjos JCS, 2015, CIT/IUCC/DASC/PICOM 2015 IEEE INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION TECHNOLOGY - UBIQUITOUS COMPUTING AND COMMUNICATIONS - DEPENDABLE, AUTONOMIC AND SECURE COMPUTING - PERVASIVE INTELLIGENCE AND COMPUTING, P199, DOI 10.1109/CIT/IUCC/DASC/PICOM.2015.29
+   Drury JA, 2018, REPROD BIOL ENDOCRIN, V16, DOI 10.1186/s12958-018-0385-3
+   Grozev N, 2015, COMPUT J, V58, P1, DOI 10.1093/comjnl/bxt107
+   Hashem IAT, 2015, INFORM SYST, V47, P98, DOI 10.1016/j.is.2014.07.006
+   INRIA, 2020, GRID5000
+   Iorga M, 2018, FOG COMPUTING CONCEP, V500-325, DOI [10.6028/NIST.SP.500-325, DOI 10.6028/NIST.SP.500-325]
+   Jayalath C, 2014, IEEE T COMPUT, V63, P74, DOI 10.1109/TC.2013.121
+   Ji SQ, 2016, TSINGHUA SCI TECHNOL, V21, P125, DOI 10.1109/TST.2016.7442496
+   Lin H., 2010, P 19 ACM INT S HIGH, P95, DOI [10.1145/1851476.1851489, DOI 10.1145/1851476.1851489]
+   Pham LM, 2016, ANN TELECOMMUN, V71, P133, DOI 10.1007/s12243-015-0489-0
+   Loreti D, 2015, IEEE I C EMBED SOFTW, P1713, DOI 10.1109/HPCC-CSS-ICESS.2015.140
+   Lu L, 2012, 2012 ACM/IEEE 13TH INTERNATIONAL CONFERENCE ON GRID COMPUTING (GRID), P76, DOI 10.1109/Grid.2012.31
+   Markl V, 2018, DEBS'18: PROCEEDINGS OF THE 12TH ACM INTERNATIONAL CONFERENCE ON DISTRIBUTED AND EVENT-BASED SYSTEMS, P7, DOI 10.1145/3210284.3214344
+   Matteussi KJ, 2018, PROCEEDINGS 2018 INTERNATIONAL CONFERENCE ON HIGH PERFORMANCE COMPUTING & SIMULATION (HPCS), P901, DOI 10.1109/HPCS.2018.00144
+   Mengistu TM, 2019, ACM COMPUT SURV, V52, DOI 10.1145/3320073
+   Nasir M. Anis Uddin, 2017, ARXIV170509073
+   Palanisamy B, 2015, IEEE T PARALL DISTR, V26, P1265, DOI 10.1109/TPDS.2014.2320498
+   Rathinaraja J, 2019, J SUPERCOMPUT, V75, P7520, DOI 10.1007/s11227-019-02960-0
+   Reinsel D., 2018, DIGITALIZATION WORLD, V1
+   Renart E, 2017, 2017 IEEE 1ST INTERNATIONAL CONFERENCE ON FOG AND EDGE COMPUTING (ICFEC), P31, DOI 10.1109/ICFEC.2017.18
+   Rezgui A, 2020, IEEE T BIG DATA, V6, P347, DOI 10.1109/TBDATA.2017.2703830
+   Satyanarayanan M, 2017, COMPUTER, V50, P30, DOI 10.1109/MC.2017.9
+   Toshniwa A, 2014, SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA, P147, DOI 10.1145/2588555.2595641
+   Tudoran R, 2014, IEEE ACM INT SYMP, P92, DOI 10.1109/CCGrid.2014.86
+   White T., 2012, HADOOP DEFINITIVE GU, V1
+   Wu C., 2016, BIG DATA PRINCIPLES, P3, DOI [10.1016/B978-0-12-805394-2.00001-5, DOI 10.1016/B978-0-12-805394-2.00001-5]
+   Yanpei Chen, 2011, Proceedings of the 2011 IEEE 19th International Symposium on Modelling, Analysis & Simulation of Computer and Telecommunication Systems (MASCOTS 2011), P390, DOI 10.1109/MASCOTS.2011.12
+   Zaharia M., 2008, P 8 USENIX C OP SYST, P29
+   Zaharia M, 2016, COMMUN ACM, V59, P56, DOI 10.1145/2934664
+NR 42
+TC 1
+Z9 1
+U1 1
+U2 1
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2169-3536
+J9 IEEE ACCESS
+JI IEEE Access
+PY 2020
+VL 8
+BP 170281
+EP 170294
+DI 10.1109/ACCESS.2020.3023344
+PG 14
+WC Computer Science, Information Systems; Engineering, Electrical &
+   Electronic; Telecommunications
+SC Computer Science; Engineering; Telecommunications
+GA NU6XE
+UT WOS:000573784400001
+OA DOAJ Gold
+DA 2021-02-25
+ER
+
+PT J
+AU Leite, JB
+   Mantovani, JRS
+   Dokic, T
+   Yan, Q
+   Chen, PC
+   Kezunovic, M
+AF Leite, Jonatas Boas
+   Sanches Mantovani, Jose Roberto
+   Dokic, Tatjana
+   Yan, Qin
+   Chen, Po-Chen
+   Kezunovic, Mladen
+TI Resiliency Assessment in Distribution Networks Using GIS-Based
+   Predictive Risk Analytics
+SO IEEE TRANSACTIONS ON POWER SYSTEMS
+LA English
+DT Article
+DE Power distribution system; risk assessment; Naive Bayes learning;
+   failure probability; time series; interruption cost; geographic
+   information system (GIS)
+ID DISTRIBUTION-SYSTEMS
+AB A new predictive risk-based framework is proposed to increase power distribution network resiliency by improving operator understanding of the status of the grid. This paper expresses the risk assessment as the correlation between likelihood and impact. The likelihood is derived from the combination of Naive Bayes learning and Jenks natural breaks classifier. The analytics included in a geographic information system platform fuse together a massive amount of data from outage recordings and weather historical databases in just one semantic parameter known as failure probability. The financial impact is determined by a time-series-based formulation that supports spatiotemporal data from fault management events and customer interruption cost. Results offer prediction of hourly risk levels and monthly accumulated risk for each feeder section of a distribution network allowing for timely tracking of the operating condition.
+C1 [Leite, Jonatas Boas; Sanches Mantovani, Jose Roberto] Sao Paulo State Univ FEIS, Elect Engn Dept, BR-15385000 Ilha Solteira, Brazil.
+   [Dokic, Tatjana; Yan, Qin; Chen, Po-Chen; Kezunovic, Mladen] Texas A&M Univ, Dept Elect & Comp Engn, College Stn, TX 77843 USA.
+RP Leite, JB (corresponding author), Sao Paulo State Univ FEIS, Elect Engn Dept, BR-15385000 Ilha Solteira, Brazil.
+EM jonatasboasleite@gmail.com; mant@dee.feis.unesp.br;
+   tatjana.djokic@email.tamu.edu; judyqinyan2010@gmail.com;
+   pchen01@tamu.edu; kezunov@ece.tamu.edu
+OI Dokic, Tatjana/0000-0003-3836-9949
+FU FAPESPFundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)
+   [2015/17757-2]; CAPESCAPES; CNPqNational Council for Scientific and
+   Technological Development (CNPq) [305371/2012-6]
+FX This work was supported in part by the FAPESP under Grant 2015/17757-2,
+   in part by the CAPES, and in part by the CNPq under Grant 305371/2012-6
+   allowing Dr. B. Leite to spend a year with Dr. Kezunovic's team at Texas
+   A&M University.
+CR [Anonymous], 2013, TECH REP
+   Ayyub B. M., 2003, RISK ANAL ENG EC, V1, P33
+   Billinton R, 2005, IEEE T POWER SYST, V20, P1103, DOI 10.1109/TPWRS.2005.846098
+   Billinton R, 2004, IEEE T POWER DELIVER, V19, P1759, DOI 10.1109/TPWRD.2004.832404
+   Carvalho PMS, 2007, 2007 IEEE LAUSANNE POWERTECH, VOLS 1-5, P1453, DOI 10.1109/PCT.2007.4538529
+   Chanda S, 2016, IEEE T SMART GRID, V7, P2859, DOI 10.1109/TSG.2016.2561303
+   Chen P., 2014, P IEEE PES GEN M NAT, P1, DOI DOI 10.1109/MWSYM.2014.6848370
+   Deng WS, 2016, IET GENER TRANSM DIS, V10, P359, DOI 10.1049/iet-gtd.2015.0416
+   Ding Y, 2014, IET GENER TRANSM DIS, V8, P1338, DOI 10.1049/iet-gtd.2013.0822
+   Dokic T, 2016, P ANN HICSS, P2488, DOI 10.1109/HICSS.2016.311
+   Garcez TV, 2014, IEEE T POWER DELIVER, V29, P624, DOI 10.1109/TPWRD.2013.2273083
+   Han J., 2012, DATA MINING CONCEPTS, V1, P740
+   Huang G, 2017, IEEE T POWER SYST, V32, P4451, DOI 10.1109/TPWRS.2017.2685640
+   Jenks GF., 1967, INT YEAR CARTOGR, V7, P186
+   Jiang B, 2013, PROF GEOGR, V65, P482, DOI 10.1080/00330124.2012.700499
+   Kaur N, 2004, 2004 INTERNATIONAL CONFERENCE ON PROBABILISTIC METHODS APPLIED TO POWER SYSTEMS, P752
+   Kezunovic M., 2013, P IREP S BULK POW SY, P1
+   Leite Jean V., 2016, 2016 IEEE Conference on Electromagnetic Field Computation (CEFC), DOI 10.1109/CEFC.2016.7816376
+   Leite JB, 2015, J CONTROL AUTOM ELEC, V26, P96, DOI 10.1007/s40313-014-0158-y
+   Lowd D, 2005, P 2 C EM ANT PAL ALT, P1
+   Martins FB, 2014, SCI AGR, V71, P212, DOI 10.1590/S0103-90162014000300006
+   Nagarajan Harsha, 2016, 2016 Power Systems Computation Conference (PSCC), P1, DOI 10.1109/PSCC.2016.7540988
+   Nijhuis M, 2017, IET GENER TRANSM DIS, V11, P419, DOI 10.1049/iet-gtd.2016.0868
+   Panteli M, 2015, ELECTR POW SYST RES, V127, P259, DOI 10.1016/j.epsr.2015.06.012
+   Panteli M, 2015, IEEE POWER ENERGY M, V13, P58, DOI 10.1109/MPE.2015.2397334
+   de Sa JLP, 2010, IEEE T POWER DELIVER, V25, P2319, DOI 10.1109/TPWRD.2010.2053564
+   Radmer DT, 2002, IEEE T POWER DELIVER, V17, P1170, DOI 10.1109/TPWRD.2002.804006
+   S. Commission, 2016, DISTR TEST SYST 1807
+   Shah R, 2015, IET RENEW POWER GEN, V9, P629, DOI 10.1049/iet-rpg.2014.0262
+   Slocum T., 2009, THEMATIC CARTOGRAPHY, V1, P561
+   Sullivan MJ, 1996, IEEE T POWER SYST, V11, P989, DOI 10.1109/59.496185
+   Vose D., 2008, RISK ANAL QUANTITATI, V1, P729
+   Wallnerstrom CJ, 2012, IEEE T POWER SYST, V27, P224, DOI 10.1109/TPWRS.2011.2165226
+   Zhang X, 2007, IEEE T DIELECT EL IN, V14, P1183, DOI 10.1109/TDEI.2007.4339478
+   Zheng G, 2016, IEEE INT C BIOINF BI, P1, DOI 10.1109/BIBE.2016.11
+NR 35
+TC 1
+Z9 1
+U1 2
+U2 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8950
+EI 1558-0679
+J9 IEEE T POWER SYST
+JI IEEE Trans. Power Syst.
+PD NOV
+PY 2019
+VL 34
+IS 6
+BP 4249
+EP 4257
+DI 10.1109/TPWRS.2019.2913090
+PG 9
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA JW5CN
+UT WOS:000503069700010
+DA 2021-02-25
+ER
+
+PT J
+AU Queiroz, MM
+   Pereira, SCF
+AF Queiroz, Maciel M.
+   Farias Pereira, Susana Carla
+TI INTENTION TO ADOPT BIG DATA N SUPPLY CHA N MANAGEMENT: A BRAZIL AN
+   PERSPECTIVE
+SO RAE-REVISTA DE ADMINISTRACAO DE EMPRESAS
+LA English
+DT Article
+DE Big data; supply chain management; adoption; survey; partial least
+   squares structural equation modeling
+ID DATA ANALYTICS; INFORMATION-TECHNOLOGY; PREDICTIVE ANALYTICS; USER
+   ACCEPTANCE; GOVERNMENT ADOPTION; SERVICE ADOPTION; MOBILE BANKING;
+   MODEL; CHALLENGES; BUSINESS
+AB Big data applications have been remodeling several business models and provoking strong radical transformations in supply chain management (SCM). Supported by the literature on big data, supply chain management, and the unified theory of acceptance and use of technology (UTAUT), this study aims to evaluate the variables that influence the intention of Brazilian SCM professionals to adopt big data. To this end, we adapted and validated a previously developed UTAUT model. A survey of 152 supply chain respondents revealed that facilitating conditions (e.g., IT infrastructure) have a high influence on their intention to adopt big data. However, social influence and performance expectancy showed no significant effect. This study contributes to the practical field, offering valuable insights for decision-makers considering big data projects. It also contributes to the literature by helping minimize the research gap in big data in the Brazilian context.
+C1 [Queiroz, Maciel M.] Univ Paulista, Programa Posgrad Adm, Sao Paulo, SP, Brazil.
+   [Farias Pereira, Susana Carla] Fundacao Getulio Vargas, Escola Adm Empresas Sao Paulo, Sao Paulo, SP, Brazil.
+RP Queiroz, MM (corresponding author), Univ Paulista, Programa Posgrad Adm, Sao Paulo, SP, Brazil.
+EM maciel.queiroz@docente.unip.br; susana.pereira@fgv.br
+RI Queiroz, Maciel M./F-1274-2014; Pereira, Susana C. F./B-9823-2013
+OI Queiroz, Maciel M./0000-0002-6025-9191; Pereira, Susana C.
+   F./0000-0002-3952-7489
+CR Abawajy J, 2015, INT J PARALLEL EMERG, V30, P5, DOI 10.1080/17445760.2014.925548
+   Ahmad SZ, 2017, INT J INFORM MANAGE, V37, P367, DOI 10.1016/j.ijinfomgt.2017.03.008
+   Akter S, 2016, INT J PROD ECON, V182, P113, DOI 10.1016/j.ijpe.2016.08.018
+   Alalwan AA, 2017, INT J INFORM MANAGE, V37, P99, DOI 10.1016/j.ijinfomgt.2017.01.002
+   Autry CW, 2014, J BUS LOGIST, V35, P52, DOI 10.1111/jbl.12034
+   Azjen I., 1980, UNDERSTANDING ATTITU
+   Batara E, 2017, TRANSFORM GOV-PEOPLE, V11, P612, DOI 10.1108/TG-09-2017-0056
+   Bibri SE, 2017, SUSTAIN CITIES SOC, V32, P449, DOI 10.1016/j.scs.2017.04.012
+   Carter CR, 2015, J SUPPLY CHAIN MANAG, V51, P89, DOI 10.1111/jscm.12073
+   Chin A.J., 2009, INT BUS RES, V2, P72, DOI DOI 10.5539/IBR.V2N2P72
+   Chin W. W., 1998, MIS Q, V22, P7, DOI DOI 10.2307/249674
+   Choi TY, 2001, J OPER MANAG, V19, P351, DOI 10.1016/S0272-6963(00)00068-1
+   Colquitt JA, 2011, ACAD MANAGE J, V54, P1183, DOI 10.5465/amj.2007.0572
+   Croll A., 2015, DATA EMERGING TRENDS
+   Davenport T. H., 2006, COMPETING ANAL, V84, P98
+   DAVIS FD, 1989, MIS QUART, V13, P319, DOI 10.2307/249008
+   Domo, 2017, DAT NEV SLEEPS 4 0
+   Dwivedi YK, 2017, GOV INFORM Q, V34, P211, DOI 10.1016/j.giq.2017.03.001
+   Erevelles S, 2016, J BUS RES, V69, P897, DOI 10.1016/j.jbusres.2015.07.001
+   Farooq MS, 2017, INTERACT TECHNOL SMA, V14, P329, DOI 10.1108/ITSE-06-2016-0015
+   FORNELL C, 1981, J MARKETING RES, V18, P39, DOI 10.2307/3151312
+   Fosso Wamba Samuel, 2018, Trends and Advances in Information Systems and Technologies. Advances in Intelligent Systems and Computing (747), P385, DOI 10.1007/978-3-319-77700-9_38
+   Francisco K., 2018, LOGISTICS, V2, P2, DOI [10.3390/logistics2010002, DOI 10.3390/logistics2010002]
+   Gefen D, 2003, MIS QUART, V27, P51
+   Giannakis M, 2016, J ENTERP INF MANAG, V29, P706, DOI 10.1108/JEIM-06-2015-0050
+   Gobble MM, 2013, RES TECHNOL MANAGE, V56, P64, DOI 10.5437/08956308X5601005
+   Grawe SJ, 2015, J BUS LOGIST, V36, P88, DOI 10.1111/jbl.12077
+   Gunasekaran A, 2017, J BUS RES, V70, P308, DOI 10.1016/j.jbusres.2016.08.004
+   Gupta M, 2016, INFORM MANAGE-AMSTER, V53, P1049, DOI 10.1016/j.im.2016.07.004
+   Hair J.F., 2017, PRIMER PARTIAL LEAST, V2nd ed.
+   Hair JF, 2014, EUR BUS REV, V26, P106, DOI 10.1108/EBR-10-2013-0128
+   Han JH, 2017, INT J PROD ECON, V187, P196, DOI 10.1016/j.ijpe.2017.02.018
+   Hazen BT, 2016, COMPUT IND ENG, V101, P592, DOI 10.1016/j.cie.2016.06.030
+   Hazen BT, 2014, INT J PROD ECON, V154, P72, DOI 10.1016/j.ijpe.2014.04.018
+   Henseler J, 2009, ADV INT MARKETING, V20, P277, DOI 10.1108/S1474-7979(2009)0000020014
+   Huang TCK, 2012, INT J INFORM MANAGE, V32, P257, DOI 10.1016/j.ijinfomgt.2011.11.006
+   Kache F, 2017, INT J OPER PROD MAN, V37, P10, DOI 10.1108/IJOPM-02-2015-0078
+   Kune R, 2016, SOFTWARE PRACT EXPER, V46, P79, DOI 10.1002/spe.2374
+   Mamonov S, 2017, INT J INFORM MANAGE, V37, P590, DOI 10.1016/j.ijinfomgt.2017.05.005
+   Manyika J., 2011, BIG DATA NEXT FRONTI
+   Martins C, 2014, INT J INFORM MANAGE, V34, P1, DOI 10.1016/j.ijinfomgt.2013.06.002
+   MAYER RC, 1995, ACAD MANAGE REV, V20, P709, DOI 10.2307/258792
+   Mentzer J. T., 2001, J BUSINESS LOGISTICS, V22, P1, DOI DOI 10.1002/J.2158-1592.2001.TB00001.X
+   Morris MG, 2000, PERS PSYCHOL, V53, P375, DOI 10.1111/j.1744-6570.2000.tb00206.x
+   Munshi AA, 2017, ELECTR POW SYST RES, V151, P369, DOI 10.1016/j.epsr.2017.06.006
+   Nobre GC, 2017, SCIENTOMETRICS, V111, P463, DOI 10.1007/s11192-017-2281-6
+   Nunnally J.C., 1978, PSYCHOMETRIC THEORY
+   Oliveira T, 2014, INT J INFORM MANAGE, V34, P689, DOI 10.1016/j.ijinfomgt.2014.06.004
+   Phillips-Wren G, 2015, J DECIS SYST, V24, P87, DOI 10.1080/12460125.2015.994333
+   Queiroz MM, 2019, INT J INFORM MANAGE, V46, P70, DOI 10.1016/j.ijinfomgt.2018.11.021
+   Queiroz MM, 2018, INT J LOGIST MANAG, V29, P767, DOI 10.1108/IJLM-05-2017-0116
+   Richey RG, 2016, INT J PHYS DISTR LOG, V46, P710, DOI 10.1108/IJPDLM-05-2016-0134
+   Riffai MMMA, 2012, INT J INFORM MANAGE, V32, P239, DOI 10.1016/j.ijinfomgt.2011.11.007
+   Rotella P., 2012, FORBES
+   Sabi HM, 2016, INT J INFORM MANAGE, V36, P183, DOI 10.1016/j.ijinfomgt.2015.11.010
+   Sarstedt M, 2015, PROCEEDINGS OF THE 2009 ACADEMY OF MARKETING SCIENCE (AMS) ANNUAL CONFERENCE, P8
+   Schoenherr T, 2015, J BUS LOGIST, V36, P120, DOI 10.1111/jbl.12082
+   Shim S, 2018, INT J INFORM MANAGE, V38, P217, DOI 10.1016/j.ijinfomgt.2017.10.001
+   Srinivasan R, 2018, PROD OPER MANAG, V27, P1849, DOI 10.1111/poms.12746
+   Stock JR, 2009, INT J PHYS DISTR LOG, V39, P690, DOI 10.1108/09600030910996323
+   Strawn G., 2012, EDUCAUSE REV
+   Sun J, 2017, INT J INFORM MANAGE, V37, P400, DOI 10.1016/j.ijinfomgt.2017.04.010
+   Venkatesh V, 2003, MIS QUART, V27, P425
+   Venkatesh V, 2001, MIS QUART, V25, P71, DOI 10.2307/3250959
+   Venkatesh V, 2012, MIS QUART, V36, P157
+   Wamba SF, 2017, J BUS RES, V70, P356, DOI 10.1016/j.jbusres.2016.08.009
+   Wamba SF, 2015, INT J PROD ECON, V165, P234, DOI 10.1016/j.ijpe.2014.12.031
+   Wang CS, 2017, ELECTRON LIBR, V35, P520, DOI 10.1108/EL-02-2016-0046
+   Wang G, 2016, INT J PROD ECON, V176, P98, DOI 10.1016/j.ijpe.2016.03.014
+   Weerakkody V, 2013, INT J INFORM MANAGE, V33, P716, DOI 10.1016/j.ijinfomgt.2013.05.001
+   Wills MJ, 2014, J HEALTHC MANAG, V59, P254
+   Wu KW, 2011, INT J INFORM MANAGE, V31, P572, DOI 10.1016/j.ijinfomgt.2011.03.004
+   Wu KJ, 2017, J CLEAN PROD, V142, P663, DOI 10.1016/j.jclepro.2016.04.040
+   Yadlapalli A, 2018, INT J PROD ECON, V196, P135, DOI 10.1016/j.ijpe.2017.11.016
+   Youngberg E, 2009, INT J INFORM MANAGE, V29, P138, DOI 10.1016/j.ijinfomgt.2008.06.001
+   Zhao R, 2017, J CLEAN PROD, V142, P1085, DOI 10.1016/j.jclepro.2016.03.006
+   Zhao Y, 2018, INT J INFORM MANAGE, V43, P342, DOI 10.1016/j.ijinfomgt.2017.08.006
+   Zhong RY, 2016, COMPUT IND ENG, V101, P572, DOI 10.1016/j.cie.2016.07.013
+   Zinn W, 2017, J BUS LOGIST, V38, P236, DOI 10.1111/jbl.12175
+   Zinn W, 2017, J BUS LOGIST, V38, P4, DOI 10.1111/jbl.12160
+NR 80
+TC 2
+Z9 2
+U1 1
+U2 2
+PU FUNDACAO GETULIO VARGAS
+PI SAO PAULO SP
+PA ESCOLA ADMIN EMPRESAS SAO PAULO, AV 9 DE JULHO, 2-029, BELA VISTA, SAO
+   PAULO SP, 01313-902, BRAZIL
+SN 2178-938X
+J9 RAE-REV ADMIN EMPRES
+JI RAE-Rev. Adm. Empres.
+PD NOV-DEC
+PY 2019
+VL 59
+IS 6
+BP 389
+EP 401
+DI 10.1590/S0034-759020190605
+PG 13
+WC Business; Management
+SC Business & Economics
+GA JX0OJ
+UT WOS:000503443200005
+OA DOAJ Gold
+DA 2021-02-25
+ER
+
+PT J
+AU Artur, E
+   Minghim, R
+AF Artur, Erasmo
+   Minghim, Rosane
+TI A novel visual approach for enhanced attribute analysis and selection
+SO COMPUTERS & GRAPHICS-UK
+LA English
+DT Article; Proceedings Paper
+CT Conference on Graphics, Patterns and Images (SIBGRAPI) / Symposium on
+   Virtual and Augmented Reality (SVR)
+CY OCT 28-31, 2019
+CL Rio de Janeiro, BRAZIL
+DE Visual analytics; Data visualization; Attribute space analysis; Feature
+   selection
+ID MUTUAL INFORMATION; EXPLORATION; DIMENSIONS; FRAMEWORK; RADVIZ
+AB As a consequence of the current capabilities of collecting and storing data, a data set of many attributes frequently reflects more than one phenomenon. Understanding the role of attribute subsets and their impact on the organization and structure of a data set under study is paramount to many exploratory and analytical tasks. Example applications range from medicine to financial markets, whereby one wishes to locate subsets of variables that impact the prediction of target categorical attributes. The user is essential in this context since automated techniques are not currently capable of embedding user knowledge in attribute selections. In this work, we propose an approach to deal with the analysis and selection of attributes in a data set based on three principles: firstly, we center the analysis of the relationships on categorical attributes or labels, because they usually summarize important state variables in the application; secondly, we express the relationship between target attributes and all others in the data set within a single visualization, providing understanding of a large number of correlations in the same visual frame; thirdly, we propose an interactive dual-visual approach whereby changes and selections in attribute space reflect visually on the configuration of data layouts, conceived to support immediate analysis of the impact of selected subsets of attributes in the organization of the data set. We validate our approach by means of a number of case studies, illustrating distinct scenarios of knowledge acquisition and feature selection. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Artur, Erasmo; Minghim, Rosane] Univ Sao Paulo, ICMC, BR-13566590 Sao Carlos, SP, Brazil.
+RP Artur, E (corresponding author), Univ Sao Paulo, ICMC, BR-13566590 Sao Carlos, SP, Brazil.
+EM erasmoartur@usp.br; rminghim@icmc.usp.br
+RI Minghim, Rosane/E-5703-2011
+OI Minghim, Rosane/0000-0002-4799-8774
+FU Brazilian Federal Research Council (CNPq)National Council for Scientific
+   and Technological Development (CNPq) [307411/2016-8]
+FX The authors would like to thank Dr. Gerson A. P. Junior for providing
+   the trauma registry data set, as well as all the many helpful
+   discussions and suggestions. Erasmo Artur acknowledges the Federal
+   University of Piaui for the sabbatical support. Rosane Minghim
+   acknowledges the assistance of the Brazilian Federal Research Council
+   (CNPq) grant 307411/2016-8.
+CR Anguita D., 2013, P437
+   Asuncion A., 2007, UCI MACHINE LEARNING
+   BATTITI R, 1994, IEEE T NEURAL NETWOR, V5, P537, DOI 10.1109/72.298224
+   Bernard J, 2014, COMPUT GRAPH FORUM, V33, P291, DOI 10.1111/cgf.12385
+   Cheng SH, 2017, PROCESSES, V5, DOI 10.3390/pr5040075
+   Cheng SH, 2016, IEEE T VIS COMPUT GR, V22, P121, DOI 10.1109/TVCG.2015.2467552
+   Diehl S, 2010, IEEE T VIS COMPUT GR, V16, P935, DOI 10.1109/TVCG.2010.209
+   Domingues CDA, 2017, WORLD J EMERG SURG, V12, DOI 10.1186/s13017-017-0129-2
+   Domingues CD, 2011, REV ESC ENFERM USP, V45, P1350
+   Draper GM, 2009, IEEE T VIS COMPUT GR, V15, P759, DOI 10.1109/TVCG.2009.23
+   Duda R. O., 2000, PATTERN CLASSIFICATI
+   Dy J. G., 2000, Proceedings. KDD-2000. Sixth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, P360, DOI 10.1145/347090.347168
+   El Akadi A, 2008, INT J COMPUT SCI NET, V8, P116
+   Fleuret F, 2004, J MACH LEARN RES, V5, P1531
+   Gini C., 1912, VARIABILITY MUTABILI
+   Gleicher M, 2013, IEEE T VIS COMPUT GR, V19, P2042, DOI 10.1109/TVCG.2013.157
+   Guo D., 2003, Information Visualization, V2, P232, DOI 10.1057/palgrave.ivs.9500053
+   Hoffman P, 1997, VISUALIZATION '97 - PROCEEDINGS, P437, DOI 10.1109/VISUAL.1997.663916
+   Hoffman P., 1999, P 1999 WORKSH NEW PA, P9, DOI [10.1145/331770.331775, DOI 10.1145/331770.331775]
+   Ingram P, 2010, COMPARATIVE ADMINISTRATIVE CHANGE AND REFORM: LESSONS LEARNED, P3
+   Jackle D, 2017, IEEE CONF VIS ANAL, P1, DOI 10.1109/VAST.2017.8585613
+   Jaegul Choo, 2010, 2010 Proceedings of IEEE Symposium on Visual Analytics Science and Technology (VAST 2010), P27, DOI 10.1109/VAST.2010.5652443
+   Johansson S, 2009, IEEE T VIS COMPUT GR, V15, P993, DOI 10.1109/TVCG.2009.153
+   Joia P, 2011, IEEE T VIS COMPUT GR, V17, P2563, DOI 10.1109/TVCG.2011.220
+   Jolliffe I., 2011, PRINCIPAL COMPONENT, P1094, DOI DOI 10.1007/978-3-642-04898-2_455
+   Keim DA, 2006, INFORMATION VISUALIZATION-BOOK, P9
+   Klemm P, 2016, IEEE T VIS COMPUT GR, V22, P81, DOI 10.1109/TVCG.2015.2468291
+   Kobourov Stephen G., 2012, ABS12013011 CORR
+   Krause J, 2014, IEEE T VIS COMPUT GR, V20, P1614, DOI 10.1109/TVCG.2014.2346482
+   Li J, 2003, IEEE T PATTERN ANAL, V25, P1075, DOI 10.1109/TPAMI.2003.1227984
+   Li JD, 2018, ACM COMPUT SURV, V50, DOI 10.1145/3136625
+   Lin DH, 2006, LECT NOTES COMPUT SC, V3951, P68
+   Liu H, 1995, PROC INT C TOOLS ART, P388, DOI 10.1109/TAI.1995.479783
+   Liu S, 2015, COMPUT GRAPH FORUM, V34, P271, DOI 10.1111/cgf.12639
+   Liu Y, 2005, IEEE IJCNN, P849
+   MACKINLAY J, 1986, ACM T GRAPHIC, V5, P110, DOI 10.1145/22949.22950
+   May T., 2011, 2011 IEEE Conference on Visual Analytics Science and Technology, P111, DOI 10.1109/VAST.2011.6102448
+   McKenna S, 2016, J COMPUT GRAPH STAT, V25, P445, DOI 10.1080/10618600.2015.1021926
+   Muhlbacher T, 2013, IEEE T VIS COMPUT GR, V19, P1962, DOI 10.1109/TVCG.2013.125
+   Nie F., 2008, P 23 NAT C ART INT, V2, P671
+   Peng HC, 2005, IEEE T PATTERN ANAL, V27, P1226, DOI 10.1109/TPAMI.2005.159
+   Pereira Junior Gerson Alves, 1999, Medicina (Ribeirao Preto), V32, P237
+   Ono JHP, 2015, SIBGRAPI, P165, DOI 10.1109/SIBGRAPI.2015.38
+   Rauber PE, 2018, INFORM VISUAL, V17, P282, DOI 10.1177/1473871617713337
+   Robnik-Sikonja M, 2003, MACH LEARN, V53, P23, DOI 10.1023/A:1025667309714
+   Sanchez A, 2018, EXPERT SYST APPL, V100, P182, DOI 10.1016/j.eswa.2018.01.054
+   Seo J., 2005, Information Visualization, V4, P96, DOI 10.1057/palgrave.ivs.9500091
+   Sharko J, 2008, IEEE T VIS COMPUT GR, V14, P1444, DOI 10.1109/TVCG.2008.173
+   Tabachnick BG., 2006, USING MULTIVARIATE S, V5th
+   Tatu A, 2012, IEEE CONF VIS ANAL, P63, DOI 10.1109/VAST.2012.6400488
+   Tatu A, 2011, IEEE T VIS COMPUT GR, V17, P584, DOI 10.1109/TVCG.2010.242
+   Tsoumakas G., 2009, INT J DATA WAREHOUSI, V3, P1, DOI DOI 10.4018/JDWM.2007070101
+   Turkay C, 2014, IEEE COMPUT GRAPH, V34, P38, DOI 10.1109/MCG.2014.1
+   Turkay C, 2011, IEEE T VIS COMPUT GR, V17, P2591, DOI 10.1109/TVCG.2011.178
+   van der Maaten L, 2008, J MACH LEARN RES, V9, P2579
+   Wang YH, 2017, COMPUT GRAPH FORUM, V36, P401, DOI 10.1111/cgf.13197
+   WRIGHT S, 1965, EVOLUTION, V19, P395, DOI 10.2307/2406450
+   Yang HH, 2000, ADV NEUR IN, V12, P687
+   Yang J., 2003, Data Visualisation 2003. Joint Eurographics/IEEE TCVG. Symposium on Visualization, P19
+   Yuan XR, 2013, IEEE T VIS COMPUT GR, V19, P2625, DOI 10.1109/TVCG.2013.150
+   Zhang ZY, 2015, IEEE T VIS COMPUT GR, V21, P289, DOI 10.1109/TVCG.2014.2350494
+   Zhou FF, 2015, IEEE PAC VIS SYMP, P111, DOI 10.1109/PACIFICVIS.2015.7156365
+   Zhou FF, 2016, IEEE PAC VIS SYMP, P128, DOI 10.1109/PACIFICVIS.2016.7465260
+NR 63
+TC 3
+Z9 3
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0097-8493
+EI 1873-7684
+J9 COMPUT GRAPH-UK
+JI Comput. Graph.-UK
+PD NOV
+PY 2019
+VL 84
+BP 160
+EP 172
+DI 10.1016/j.cag.2019.08.015
+PG 13
+WC Computer Science, Software Engineering
+SC Computer Science
+GA JN0QS
+UT WOS:000496609700014
+DA 2021-02-25
+ER
+
+PT J
+AU Pinto, VA
+   Cardoso, AMP
+   Pinheiro, MMK
+   Parreiras, FS
+AF Pinto, Vitor Afonso
+   Pereira Cardoso, Ana Maria
+   Kerr Pinheiro, Marta Macedo
+   Parreiras, Fernando Silva
+TI INTERDISCIPLINARITY IN DATA SCIENCE OVER BIG DATA: findings for mining
+   industry
+SO INFORMACAO & SOCIEDADE-ESTUDOS
+LA English
+DT Article
+DE Data Science; Big Data; Interdisciplinarity; Mining Industry
+ID DATA ANALYTICS; PERFORMANCE
+AB Data Science and Big Data are leveraged by businesses in many ways to improve operational and strategic capabilities, and ultimately, to positively impact corporate financial performance. However, there are challenges related to Big Data, such as modelling, new paradigms and novel architectures that require original approaches to address data complexities. In the specific case of iron ore mining industry, there is a considerable pressure at present to reduce costs due to the recent major fall in iron ore prices. This study discusses if an interdisciplinary approach could help mining industries to extract the most of data science initiatives over big data. In this study we applied a narrative literature review method to briefly present a chronological review of disciplines and interdisciplinarity as well as the evolution of data science over big data. Then we discussed: 1) the importance of involving people from different profiles; 2) the relevance of technology transfer inside computing research field; 3) the requirements for integrating so many different people and technologies in such initiative. We concluded that achieving results with Data Science initiative over big data is not related to a single knowledge area, especially in mining industries.
+C1 [Pinto, Vitor Afonso] Vale SA, Rio De Janeiro, Brazil.
+   [Pereira Cardoso, Ana Maria; Kerr Pinheiro, Marta Macedo; Parreiras, Fernando Silva] Univ FUMEC, Belo Horizonte, MG, Brazil.
+RP Pinto, VA (corresponding author), Vale SA, Rio De Janeiro, Brazil.
+EM vitor.afonso.pinto@gmail.com; ana.cardoso@fumec.br;
+   marta.macedo@fumec.br; fernando.parreiras@fumec.br
+RI Cardoso, Ana Maria/AAK-9545-2020
+CR ACM, 2012, ACM COMP CLASS SYST
+   ADDO-TENKORANG R., 2016, BIG DATA APPL OPERAT
+   Ahlemeyer-Stubbe A., 2014, PRACTICAL GUIDE DATA
+   Akter S, 2016, INT J PROD ECON, V182, P113, DOI 10.1016/j.ijpe.2016.08.018
+   Alexander Cheryl Ann, 2018, J BUSINESS MANAGEMEN, V6, P104
+   ALVARENGA A. T. d, 2005, SAUDE SOC, V14, P9
+   Balliu A, 2016, COMPUTING, V98, P1225, DOI 10.1007/s00607-015-0480-7
+   BARI A., 2014, PREDICTIVE ANAL DUMM
+   Baumeister R, 1997, REV GEN PSYCHOL, V1, P311, DOI DOI 10.1037/1089-2680.1.3.311
+   Bechhofer S, 2013, FUTURE GENER COMP SY, V29, P599, DOI 10.1016/j.future.2011.08.004
+   BERNSTEIN J. H., 2014, DISCIPLINARITY TRAND
+   BYNUM W., 2014, LITTLE HIST SCI
+   Chen XY, 2017, J CLEAN PROD, V142, P915, DOI 10.1016/j.jclepro.2016.02.119
+   CHOI B. C. K., 2007, MED CLIN EXPT, V29, P351
+   COIMBRA J. d. A. A., 2000, INTERDISCIPLINARIDAD, P52
+   Constantiou ID, 2015, J INF TECHNOL-UK, V30, P44, DOI 10.1057/jit.2014.17
+   COREA F., 2016, BIG DATA ANALYTICS A, V21
+   Corte-Real N, 2017, J BUS RES, V70, P379, DOI 10.1016/j.jbusres.2016.08.011
+   DOMINGUES I., 2005, CONHECIMENTO TRANSDI
+   GARTNER, 2015, DESCR AN
+   Gil D, 2016, FUTURE GENER COMP SY, V63, P96, DOI 10.1016/j.future.2015.07.019
+   Green BN, 2006, J CHIROPR MED, V5, P101, DOI 10.1016/S0899-3467(07)60142-6
+   Hazen BT, 2016, COMPUT IND ENG, V101, P592, DOI 10.1016/j.cie.2016.06.030
+   Holmes R.J., 2015, IRON ORE MINERALOGY, P1, DOI 10.1016/C2013-0-16476-8
+   Hurwitz J., 2015, COGNITIVE COMPUTING
+   Janssen M, 2017, J BUS RES, V70, P338, DOI 10.1016/j.jbusres.2016.08.007
+   Kashyap H, 2016, NETW MODEL ANAL HLTH, V5, DOI 10.1007/s13721-016-0135-4
+   KENNY A., 2019, ILLUSTRATED BRIEF HI
+   LEFF E., 2011, COMPLEXIDADE INTERDI, V14
+   Liu JZ, 2016, ISPRS J PHOTOGRAMM, V115, P134, DOI 10.1016/j.isprsjprs.2015.11.006
+   Lokers R, 2016, ENVIRON MODELL SOFTW, V84, P494, DOI 10.1016/j.envsoft.2016.07.017
+   LU H., 2017, ARTIFICIAL INTELLIGE
+   MASTIN L., 2009, QUICK HIST PHILOS
+   Murthy Praveen, 2014, BIG DATA TAXONOMY
+   NAYYAR A., 2019, ADV SWARM INTELLIGEN
+   OSTERHAGE W. W., 2019, G GALILEI THRESHOLD
+   RUGGIERO T., 2001, HIST PHILOS
+   SCRUTON R, 2002, SHORT HIST MODERN PH
+   Seele P, 2017, J CLEAN PROD, V153, P673, DOI 10.1016/j.jclepro.2016.10.175
+   SHARMA K., 2017, J BUSINESS RES
+   SOMMERMAN A., 2006, INTER TRANSDISCIPLIN, V21, P98
+   Vera-Baquero A, 2016, TELEMAT INFORM, V33, P793, DOI 10.1016/j.tele.2015.12.005
+   Vossen G., 2014, VIETNAM J COMPUT SCI, V1, P3, DOI DOI 10.1007/S40595-013-0001-6
+   Wamba SF, 2015, INT J PROD ECON, V165, P234, DOI 10.1016/j.ijpe.2014.12.031
+   Xu LD, 2014, IEEE T IND INFORM, V10, P2233, DOI 10.1109/TII.2014.2300753
+NR 45
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV FEDERAL CAMPINA GRANDE
+PI CAMPINA GRANDE PB
+PA RUA APRIGIO VELOSO 882, BODO CONGO, CAMPINA GRANDE PB, 58109 090, BRAZIL
+SN 0104-0146
+EI 1809-4783
+J9 INFORM SOC-ESTUD
+JI Inf. Soc.-Estud.
+PD OCT-DEC
+PY 2019
+VL 29
+IS 4
+BP 61
+EP 74
+PG 14
+WC Information Science & Library Science
+SC Information Science & Library Science
+GA JZ4EW
+UT WOS:000505055400005
+DA 2021-02-25
+ER
+
+PT J
+AU Bastos, AF
+   Santoso, S
+AF Bastos, Alvaro Furlani
+   Santoso, Surya
+TI Condition Monitoring of Circuit Switchers for Shunt Capacitor Banks
+   Through Power Quality Data
+SO IEEE TRANSACTIONS ON POWER DELIVERY
+LA English
+DT Article
+DE Capacitor switching; condition monitoring; data analytics; power
+   quality; pre-insertion impedance; predictive maintenance; system
+   reliability
+AB Aging of power system assets challenges utilities to maintain reliable service while minimizing their maintenance costs. Although malfunction of devices in the transmission or distribution networks can have catastrophic consequences, their failure is seldom unforeseen. Typically, the device aging occurs gradually over time until its health condition reaches a point of complete breakdown. The overall objective of this paper is to devise a noninvasive, online condition monitoring technique of circuit switchers for shunt capacitor banks. It aims to detect abnormal operation of these devices based on features derived from raw voltage and current waveforms, such that a predictive maintenance strategy may be employed before a complete failure occurs. The data analyzed in this paper are collected at a transmission capacitor bus, where the banks are equipped with pre-insertion impedance. Through a baseline range of values for selected parameters, the proposed technique is able to detect missing pre-insertion impedance during the capacitor energizing and failure of pre-insertion impedance switch out a few cycles after the energizing operation.
+C1 [Bastos, Alvaro Furlani; Santoso, Surya] Univ Texas Austin, Dept Elect & Comp Engn, Austin, TX 78712 USA.
+   [Bastos, Alvaro Furlani] CAPES Fdn, Minist Educ, BR-70040031 Brasilia, DF, Brazil.
+RP Bastos, AF (corresponding author), Univ Texas Austin, Dept Elect & Comp Engn, Austin, TX 78712 USA.
+EM alvaro.fbastos@utexas.edu; ssantoso@mail.utexas.edu
+OI Furlani Bastos, Alvaro/0000-0001-8786-6197; Santoso,
+   Surya/0000-0002-8675-9610
+CR [Anonymous], 2000, C371012000 IEEE
+   [Anonymous], 1996, CAP SWITCH NEEDS SWI
+   [Anonymous], 2010, S C CIRC SWITCH MARK
+   [Anonymous], 2010, 10362010 IEEE
+   Bastos AF, 2019, IET GENER TRANSM DIS, V13, P2226, DOI 10.1049/iet-gtd.2018.6511
+   Bastos AF, 2019, IEEE T POWER DELIVER, V34, P551, DOI 10.1109/TPWRD.2018.2876682
+   Bastos AF, 2018, IEEE T POWER DELIVER, V33, P2920, DOI 10.1109/TPWRD.2018.2831183
+   Bastos J, 2018, SCOPES '18: PROCEEDINGS OF THE 21ST INTERNATIONAL WORKSHOP ON SOFTWARE AND COMPILERS FOR EMBEDDED SYSTEMS, P1, DOI 10.1145/3207719.3207728
+   Bollen M.H.J., 2006, SIGNAL PROCESSING PO
+   Bradley D, 2001, IEE CONF PUBL, P229, DOI 10.1049/cp:20010604
+   Camm E. H., 1999, IEEE PES TRANSM DIST
+   EPRI, 2000, 1000563 EPRI
+   Feizifar B., 2017, P IEEE IND COMM POW, P1
+   Gustafsson Fredrik, 2000, ADAPTIVE FILTERING C
+   Han Y, 2003, IEEE T POWER DELIVER, V18, P4, DOI 10.1109/TPWRD.2002.801425
+   Hong TQ, 2018, IEEE T POWER DELIVER, V33, P600, DOI 10.1109/TPWRD.2017.2707922
+   Kezunovic M., 2007, P IEEE POW ENG SOC G, P1
+   Kulkarni S, 2014, IEEE T SMART GRID, V5, P1165, DOI 10.1109/TSG.2014.2303483
+   Li BZ, 2017, IEEE T POWER DELIVER, V32, P162, DOI 10.1109/TPWRD.2016.2580663
+   Li ST, 2017, HIGH VOLT, V2, P82, DOI 10.1049/hve.2017.0026
+   Livshitz A, 2004, 2004 IEEE PES POWER SYSTEMS CONFERENCE & EXPOSITION, VOLS 1 - 3, P646
+   Mik A., 2015, P INT C COND MON DIA, P1
+   Naves ELM, 2016, 2016 IEEE 18TH INTERNATIONAL CONFERENCE ON E-HEALTH NETWORKING, APPLICATIONS AND SERVICES (HEALTHCOM), P1
+   Razi-Kazemi AA, 2014, IEEE T POWER DELIVER, V29, P283, DOI 10.1109/TPWRD.2013.2276630
+   Santoso S., 2012, FUNDAMENTALS ELECT P
+   Santoso S., 2018, STANDARD HDB ELECT E
+   Wischkaemper JA, 2015, IEEE T SMART GRID, V6, P2041, DOI 10.1109/TSG.2015.2406757
+NR 27
+TC 4
+Z9 4
+U1 0
+U2 6
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 0885-8977
+EI 1937-4208
+J9 IEEE T POWER DELIVER
+JI IEEE Trans. Power Deliv.
+PD AUG
+PY 2019
+VL 34
+IS 4
+SI SI
+BP 1499
+EP 1507
+DI 10.1109/TPWRD.2019.2908336
+PG 9
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA IM1CA
+UT WOS:000477724800032
+DA 2021-02-25
+ER
+
+PT J
+AU Bonilla, SH
+   Silva, HRO
+   da Silva, MT
+   Goncalves, RF
+   Sacomano, JB
+AF Bonilla, Silvia H.
+   Silva, Helton R. O.
+   da Silva, Marcia Terra
+   Goncalves, Rodrigo Franco
+   Sacomano, Jose B.
+TI Industry 4.0 and Sustainability Implications: A Scenario-Based Analysis
+   of the Impacts and Challenges
+SO SUSTAINABILITY
+LA English
+DT Article
+DE Industry 4.0; Internet of Things; sustainability; environmental
+   sustainability; sustainable development
+ID ENVIRONMENTAL PROACTIVITY; BIG DATA; PERFORMANCE; ENERGY; FRAMEWORK;
+   INTERNET; SYSTEMS; CHINA
+AB The new evolution of the production and industrial process called Industry 4.0, and its related technologies such as the Internet of Things, big data analytics, and cyber-physical systems, among others, still have an unknown potential impact on sustainability and the environment. In this paper, we conduct a literature-based analysis to discuss the sustainability impact and challenges of Industry 4.0 from four different scenarios: deployment, operation and technologies, integration and compliance with the sustainable development goals, and long-run scenarios. From these scenarios, our analysis resulted in positive or negative impacts related to the basic production inputs and outputs flows: raw material, energy and information consumption and product and waste disposal. As the main results, we identified both positive and negative expected impacts, with some predominance of positives that can be considered positive secondary effects derived from Industry 4.0 activities. However, only through integrating Industry 4.0 with the sustainable development goals in an eco-innovation platform, can it really ensure environmental performance. It is expected that this work can contribute to helping stakeholders, practitioners and governments to advance solutions to deal with the outcomes emerging through the massive adoption of those technologies, as well as supporting the expected positive impacts through policies and financial initiatives.
+C1 [Bonilla, Silvia H.; Silva, Helton R. O.; da Silva, Marcia Terra; Goncalves, Rodrigo Franco; Sacomano, Jose B.] Univ Paulista, UNIP, Post Grad Program Prod Engn, BR-04026002 Sao Paulo, Brazil.
+   [Goncalves, Rodrigo Franco] Univ Sao Paulo, Grad Program Prod Engn, BR-13010111 Sao Paulo, Brazil.
+RP Bonilla, SH (corresponding author), Univ Paulista, UNIP, Post Grad Program Prod Engn, BR-04026002 Sao Paulo, Brazil.
+EM shbonilla@hotmail.com; kaa_el@hotmail.com; marcia.terra@uol.com.br;
+   rofranco212@gmail.com; jbsacomano@gmail.com
+RI Sacomano, Jose Benedito/AAD-9340-2020; Goncalves, Rodrigo F/M-8130-2013;
+   Silva, Marcia Terra/C-3417-2013; Goncalves, Rodrigo Franco/Q-7296-2019
+OI Goncalves, Rodrigo F/0000-0003-2206-3136; Silva, Marcia
+   Terra/0000-0002-5314-4978; Goncalves, Rodrigo
+   Franco/0000-0003-2206-3136; Bonilla, Silvia H/0000-0003-1063-9513
+FU CAPESCAPES [1675677]
+FX Helton R.O. Silva wants to thank the Prosup program (CAPES) for the
+   Ph.D. degree scholarship number 1675677.
+CR Abel T, 2013, ECOL MODEL, V251, P85, DOI 10.1016/j.ecolmodel.2012.11.027
+   Antonietti R, 2014, ECOL ECON, V108, P150, DOI 10.1016/j.ecolecon.2014.10.017
+   Aquilani B, 2016, SUSTAINABILITY-BASEL, V8, DOI 10.3390/su8100995
+   Arnold C., 2017, BHM, V162, P371, DOI DOI 10.1007/s00501-017-0667-7
+   Bastianoni S., 2009, EMERGY SYNTHESIS, P49
+   Beier G, 2017, INT J PR ENG MAN-GT, V4, P227, DOI 10.1007/s40684-017-0028-8
+   Bonilla SH, 2013, J CLEAN PROD, V46, P1, DOI 10.1016/j.jclepro.2012.12.011
+   Bressanelli G, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10030639
+   Buhr D., 2017, SOCIAL INNOVATION PO
+   Burritt R., 2016, ASIAN J SUSTAIN SOC, V1, P23, DOI [10.1186/s41180-016-0007-y, DOI 10.1186/S41180-016-0007-Y]
+   Daly H, 1980, EC ECOLOGY ETHICS ES
+   Deloitte, 2015, CHALL SOL DIG TRANSF
+   Digital M., 2015, IND 4 0 NAVIGATE DIG
+   Dijkman RM, 2015, INT J INFORM MANAGE, V35, P672, DOI 10.1016/j.ijinfomgt.2015.07.008
+   Dowell G, 2000, MANAGE SCI, V46, P1059, DOI 10.1287/mnsc.46.8.1059.12030
+   Drath R, 2014, IEEE IND ELECTRON M, V8, P56, DOI 10.1109/MIE.2014.2312079
+   Duinker PN, 2007, ENVIRON IMPACT ASSES, V27, P206, DOI 10.1016/j.eiar.2006.11.001
+   Elzinga D., 2011, TECHNOLOGY ROADMAP S
+   Ford S, 2016, J CLEAN PROD, V137, P1573, DOI 10.1016/j.jclepro.2016.04.150
+   Fu BL, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10041105
+   Gabriel M, 2016, ANN FAC ENG HUNEDOAR, V14, P131
+   Gobbo JA, 2018, PROCESS SAF ENVIRON, V117, P372, DOI 10.1016/j.psep.2018.05.017
+   Goodland R, 1996, ECOL APPL, V6, P1002, DOI 10.2307/2269583
+   Guenster N, 2011, EUR FINANC MANAG, V17, P679, DOI 10.1111/j.1468-036X.2009.00532.x
+   Haug KC, 2016, TELECOMMUN POLICY, V40, P291, DOI 10.1016/j.telpol.2015.08.003
+   Hermann M, 2016, P ANN HICSS, P3928, DOI 10.1109/HICSS.2016.488
+   HOLDREN JP, 1974, AM SCI, V62, P282
+   Hubbard G, 2009, BUS STRATEG ENVIRON, V18, P177, DOI 10.1002/bse.564
+   International Federation of Robotics, 2017, WORLD ROB REP 2016
+   International Federation of Robotics (IFR), 2016, P INT FED ROB FRANKF
+   Jabbour ABLD, 2018, TECHNOL FORECAST SOC, V132, P18, DOI 10.1016/j.techfore.2018.01.017
+   Jabbour CJC, 2019, TECHNOL FORECAST SOC, V144, P546, DOI 10.1016/j.techfore.2017.09.010
+   Kagermann H., 2013, RECOMMENDATIONS IMPL
+   Khaqqi KN, 2018, APPL ENERG, V209, P8, DOI 10.1016/j.apenergy.2017.10.070
+   Kiel D, 2017, INT J INNOV MANAG, V21, DOI 10.1142/S1363919617400151
+   King A, 2002, MANAGE SCI, V48, P289, DOI 10.1287/mnsc.48.2.289.258
+   Laari S, 2016, J CLEAN PROD, V112, P1960, DOI 10.1016/j.jclepro.2015.06.150
+   Lasi H., 2014, WIRTSCHAFTSINF, V56, P261, DOI DOI 10.1007/s11576-014-0424-4
+   Lee Jay, 2015, Manufacturing Letters, V3, P18, DOI 10.1016/j.mfglet.2014.12.001
+   Lee J, 2014, PROC CIRP, V16, P3, DOI 10.1016/j.procir.2014.02.001
+   Liao YX, 2017, INT J PROD RES, V55, P3609, DOI 10.1080/00207543.2017.1308576
+   Lin KC, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9050786
+   Jabbour ABLD, 2018, ANN OPER RES, V270, P273, DOI 10.1007/s10479-018-2772-8
+   Lu Y, 2017, J IND INF INTEGR, V6, P1, DOI 10.1016/j.jii.2017.04.005
+   Lupinacci D.M., 2015, EMERGY SYNTHESIS, P105
+   Luthra S, 2018, PROCESS SAF ENVIRON, V117, P168, DOI 10.1016/j.psep.2018.04.018
+   Marscheider-Weidemann F., 2016, RAW MAT EMERGING TEC
+   McWilliams A, 2016, BUS STRATEG ENVIRON, V25, P193, DOI 10.1002/bse.1867
+   Mosnier C, 2017, AGR SYST, V157, P193, DOI 10.1016/j.agsy.2017.07.006
+   Muller JM, 2018, TECHNOL FORECAST SOC, V132, P2, DOI 10.1016/j.techfore.2017.12.019
+   Muller JM, 2018, SUSTAINABILITY-BASEL, V10, DOI 10.3390/su10010247
+   Nagasawa T., 2017, ACCELERATING CLEAN E
+   National Science Foundation (NSF), 2012, NSF11516
+   Nga JKH, 2009, SOC RESPONSIB J, V5, P408, DOI 10.1108/17471110910977311
+   Odum H., 1995, ENV ACCOUTING
+   Pagoropoulos A, 2017, PROC CIRP, V64, P19, DOI 10.1016/j.procir.2017.02.047
+   Pardo N, 2013, ENERGY, V54, P113, DOI 10.1016/j.energy.2013.03.015
+   PARK S, 2017, SUSTAINABILITY-BASEL, V9, DOI DOI 10.3390/su9071142
+   Pereira AC, 2017, PROCEDIA MANUF, V13, P1206, DOI 10.1016/j.promfg.2017.09.032
+   Pilloni V, 2018, FUTURE INTERNET, V10, DOI 10.3390/fi10030024
+   Qin J, 2016, PROC CIRP, V52, P173, DOI 10.1016/j.procir.2016.08.005
+   Riazi S, 2017, IEEE T AUTOM SCI ENG, V14, P646, DOI 10.1109/TASE.2016.2641743
+   Ritthoff M., 2003, CALCULATING MIPS RES
+   Robert K. H., 2000, J CLEAN PROD, V8, DOI [10.1016/S0959-6526(00)00011-1, DOI 10.1016/S0959-6526(00)00011-1]
+   Sambasivan M, 2013, J CLEAN PROD, V42, P69, DOI 10.1016/j.jclepro.2012.11.016
+   Sarkis J, 2018, INT J PROD RES, V56, P743, DOI 10.1080/00207543.2017.1365182
+   Sen P, 2015, J CLEAN PROD, V108, P583, DOI 10.1016/j.jclepro.2015.05.076
+   Shi PF, 2013, STOCH ENV RES RISK A, V27, P1359, DOI 10.1007/s00477-012-0672-z
+   Shrouf F, 2015, J CLEAN PROD, V100, P235, DOI 10.1016/j.jclepro.2015.03.055
+   Sikorski JJ, 2017, APPL ENERG, V195, P234, DOI 10.1016/j.apenergy.2017.03.039
+   Smit J., 2016, IND 4 0
+   Sogari G, 2017, SUSTAINABILITY-BASEL, V9, DOI 10.3390/su9101911
+   Sreenivasan R, 2010, PHYSCS PROC, V5, P81, DOI 10.1016/j.phpro.2010.08.124
+   Stock T, 2016, PROC CIRP, V40, P536, DOI 10.1016/j.procir.2016.01.129
+   Stock T, 2018, PROCESS SAF ENVIRON, V118, P254, DOI 10.1016/j.psep.2018.06.026
+   Terlau W., 2015, International Journal on Food System Dynamics, V6, P159
+   United Nations, 2015, SUST DEV GOALS
+   Vranken H, 2017, CURR OPIN ENV SUST, V28, P1, DOI 10.1016/j.cosust.2017.04.011
+   Waibel MW, 2017, PROCEDIA MANUF, V8, P731, DOI 10.1016/j.promfg.2017.02.094
+   Wan JF, 2011, KSII T INTERNET INF, V5, P1891, DOI 10.3837/tiis.2011.11.001
+   Wang SY, 2016, INT J DISTRIB SENS N, DOI 10.1155/2016/3159805
+   Yan JH, 2017, IEEE ACCESS, V5, P23484, DOI 10.1109/ACCESS.2017.2765544
+   Zawadzki P, 2016, MANAG PROD ENG REV, V7, P105, DOI 10.1515/mper-2016-0030
+   Zheng ZB, 2017, IEEE INT CONGR BIG, P557, DOI 10.1109/BigDataCongress.2017.85
+   Zhou KL, 2015, 2015 12TH INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS AND KNOWLEDGE DISCOVERY (FSKD), P2147, DOI 10.1109/FSKD.2015.7382284
+NR 85
+TC 84
+Z9 84
+U1 7
+U2 40
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD OCT
+PY 2018
+VL 10
+IS 10
+AR 3740
+DI 10.3390/su10103740
+PG 24
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA GY4UB
+UT WOS:000448559400382
+OA DOAJ Gold
+DA 2021-02-25
+ER
+
+PT J
+AU Seles, BMRP
+   Jabbour, ABLD
+   Jabbour, CJC
+   Fiorini, PD
+   Mohd-Yusoff, Y
+   Thome, AMT
+AF Roman Pais Seles, Bruno Michel
+   Lopes de Sousa Jabbour, Ana Beatriz
+   Chiappetta Jabbour, Charbel Jose
+   Fiorini, Paula de Camargo
+   Mohd-Yusoff, Yusliza
+   Tavares Thome, Antonio Marcio
+TI Business opportunities and challenges as the two sides of the climate
+   change: Corporate responses and potential implications for big data
+   management towards a low carbon society
+SO JOURNAL OF CLEANER PRODUCTION
+LA English
+DT Article
+DE Big data; Environmental management; Global warming; Climate change;
+   Sustainable operations
+ID SUPPLY CHAIN MANAGEMENT; DATA ENVELOPMENT ANALYSIS; GREENHOUSE-GAS
+   EMISSIONS; ENVIRONMENTAL-MANAGEMENT; DATA ANALYTICS; FINANCIAL
+   PERFORMANCE; DATA SCIENCE; SUSTAINABILITY; FIRMS; DISCLOSURE
+AB Climate change represents a long-term risk to society, and this risk extends to organizations across several sectors. The risks associated with climate change have both pros and cons, and it is thus important to understand how organizations deal with the opportunities and challenges that climate change presents. Furthermore, big data has gained increasing prominence due to its potential to transform ways of doing business. It is therefore important to understand the implications which big data will have for managing corporate responses to the opportunities and challenges presented by climate change. In this context, this article aimed to identify and analyze the challenges and opportunities that the climate crisis presents for organizations and to understand how organizations respond to this scenario, while examining the implications of big data management. This work adopted a structured literature review research method. The review showed that the opportunities emerging from the climate crisis tend to improve performance (environmental, financial and operational) as well as generating new business, while the challenges are related to the lack, or inefficiency, of governmental and regulatory support and an increase in costs. It was also identified that organizations respond to the climate crisis by investing in research and development, as well as through cooperation with other organizations. The results of this research serve as a guide for organizations that are concerned with the climate crisis situation, but currently can neither face the challenges it presents nor realize that this apparently threatening scenario also holds great business potential. The article also contributes to the debate on climate change policy by means of shedding light on possible methods to encourage organizations to make short-term investments to deal with the contingencies presented by climate change. Finally, the article also highlights the effects of big data. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Roman Pais Seles, Bruno Michel; Fiorini, Paula de Camargo] UNESP Sao Paulo State Univ, Av Engn Luiz Edmundo C Coube 14-01, BR-17033360 Sao Paulo, Brazil.
+   [Lopes de Sousa Jabbour, Ana Beatriz; Chiappetta Jabbour, Charbel Jose; Fiorini, Paula de Camargo] Montpellier Business Sch, Montpellier Res Management, 2300 Ave Moulins, F-34185 Montpellier 4, France.
+   [Mohd-Yusoff, Yusliza] Univ Malaysia Terengganu, Sch Maritime Business & Management, Kuala Nerus 21030, Terengganu, Malaysia.
+   [Tavares Thome, Antonio Marcio] Pontificial Catholica Univ Rio de Janeiro, Ind Engn Dept, Rua Marques Sao Vicente 225,Sala 952L, BR-22453900 Rio De Janeiro, RJ, Brazil.
+RP Jabbour, CJC (corresponding author), Montpellier Business Sch, Montpellier Res Management, 2300 Ave Moulins, F-34185 Montpellier 4, France.
+EM bruno_seles@yahoo.com.br; a.sousa-jabbour@montpellier-bs.com;
+   cjcjabbour@gmail.corn; paula.fiorini@feb.unesp.br; yusliza@umt.edu.my;
+   mt@puc-rio.br
+RI Seles, Bruno Michel Roman Pais/J-7934-2013; Yusliza,
+   Mohd-Yusoff/E-1765-2012; Fiorini, Paula C/I-6642-2015; Jabbour, Charbel
+   Jose Chiappetta/F-3505-2010; de Sousa Jabbour, Ana Beatriz
+   Lopes/B-8966-2012; Tavares Thome, Antonio Marcio/E-6778-2015
+OI Seles, Bruno Michel Roman Pais/0000-0003-1179-5753; Fiorini, Paula
+   C/0000-0001-9192-9904; Jabbour, Charbel Jose
+   Chiappetta/0000-0002-6143-4924; de Sousa Jabbour, Ana Beatriz
+   Lopes/0000-0001-6423-8868; Yusliza, M-Y/0000-0003-3925-3737; Tavares
+   Thome, Antonio Marcio/0000-0001-9751-905X
+FU CAPES (Coordination for the Improvement of Higher Education
+   Personnel)CAPES [88881.133599/2016-01]
+FX This work was partially supported by CAPES (Coordination for the
+   Improvement of Higher Education Personnel), PDSE Processo no
+   88881.133599/2016-01.
+CR Agan Y, 2013, J CLEAN PROD, V51, P23, DOI 10.1016/j.jclepro.2012.12.043
+   Agarwal R, 2014, INFORM SYST RES, V25, P443, DOI 10.1287/isre.2014.0546
+   Akhtar P, 2016, INT J PROD ECON, V181, P392, DOI 10.1016/j.ijpe.2015.11.013
+   Akter S, 2016, INT J PROD ECON, V182, P113, DOI 10.1016/j.ijpe.2016.08.018
+   Albornoz F, 2014, J ENVIRON MANAGE, V146, P150, DOI 10.1016/j.jenvman.2014.07.011
+   [Anonymous], 2015, AD PAR AGR
+   [Anonymous], 2017, NY TIMES
+   Belaud JP, 2014, COMPUT IND, V65, P521, DOI 10.1016/j.compind.2014.01.009
+   Berner M., 2014, J ORG DESIGN, V3, P14, DOI DOI 10.7146/J0D.9736
+   Bicknell S, 2006, GEOGR RES-AUST, V44, P386, DOI 10.1111/j.1745-5871.2006.00409.x
+   Bottcher CF, 2015, BUS STRATEG ENVIRON, V24, P477, DOI 10.1002/bse.1832
+   British Broadcasting Corporation, 2017, PAR CLIM TRUMP PULLS
+   Chen CLP, 2014, INFORM SCIENCES, V275, P314, DOI 10.1016/j.ins.2014.01.015
+   Jabbour CJC, 2015, INT J PROD ECON, V164, P245, DOI 10.1016/j.ijpe.2014.11.015
+   Jabbour CJC, 2013, RESOUR CONSERV RECY, V74, P144, DOI 10.1016/j.resconrec.2012.12.017
+   Darnall N, 2006, STRATEGIC MANAGE J, V27, P301, DOI 10.1002/smj.518
+   Davenport Thomas H., 2014, Strategy & Leadership, V42, P45, DOI 10.1108/SL-05-2014-0034
+   De Giovanni P, 2012, INT J OPER PROD MAN, V32, P265, DOI 10.1108/01443571211212574
+   Demertzidis N, 2015, CLIM RISK MANAG, V10, P95, DOI 10.1016/j.crm.2015.09.002
+   Dragomir VD, 2012, J CLEAN PROD, V29-30, P222, DOI 10.1016/j.jclepro.2012.01.024
+   Dubey R, 2019, TECHNOL FORECAST SOC, V144, P534, DOI 10.1016/j.techfore.2017.06.020
+   Dubey R, 2015, SUSTAIN PROD CONSUMP, V4, P72, DOI 10.1016/j.spc.2015.07.001
+   El-Kassar AN, 2019, TECHNOL FORECAST SOC, V144, P483, DOI 10.1016/j.techfore.2017.12.016
+   Environment Agency, 2015, BUS OPP CHANG CLIM M
+   Erevelles S, 2016, J BUS RES, V69, P897, DOI 10.1016/j.jbusres.2015.07.001
+   Feng Q, 2018, PROD OPER MANAG, V27, P1670, DOI 10.1111/poms.12836
+   Gallego-Alvarez I, 2011, J CLEAN PROD, V19, P912, DOI 10.1016/j.jclepro.2011.02.012
+   Gandomi A, 2015, INT J INFORM MANAGE, V35, P137, DOI 10.1016/j.ijinfomgt.2014.10.007
+   Gans W, 2013, ENVIRON RESOUR ECON, V55, P291, DOI 10.1007/s10640-012-9626-7
+   Gasbarro F, 2017, J CLEAN PROD, V160, P8, DOI 10.1016/j.jclepro.2017.03.018
+   Gaur A, 2018, J WORLD BUS, V53, P280, DOI 10.1016/j.jwb.2017.11.003
+   Glaser Barney G, 2009, DISCOVERY GROUNDED T
+   Goes P. B., 2014, SCIENCE, V38, P3
+   Griffiths Andrew, 2007, European Management Journal, V25, P415, DOI 10.1016/j.emj.2007.08.001
+   Harmes A, 2011, GLOBAL ENVIRON POLIT, V11, P98, DOI 10.1162/GLEP_a_00057
+   Intergovernmental Panel on Climate Change, 2007, CLIM CHANG 2007 WORK
+   Jarvis N, 2010, TOUR PLAN DEV, V7, P283, DOI 10.1080/1479053X.2010.502389
+   Johnson RB, 2007, J MIX METHOD RES, V1, P112, DOI 10.1177/1558689806298224
+   Jones Charles A., 2007, European Management Journal, V25, P428, DOI 10.1016/j.emj.2007.07.001
+   Kolk A., 2001, EUR MANAG J, V19, P501, DOI DOI 10.1016/S0263-2373(01)00064-0
+   Kuo LP, 2015, INT J CLIM CHANG STR, V7, P154, DOI 10.1108/IJCCSM-07-2013-0083
+   Kuo L, 2010, MANAGE DECIS, V48, P1596, DOI 10.1108/00251741011090342
+   Lage M, 2010, INT J PROD ECON, V125, P13, DOI 10.1016/j.ijpe.2010.01.009
+   Lee KH, 2015, INT J PROD ECON, V167, P1, DOI 10.1016/j.ijpe.2015.05.018
+   Lee KH, 2012, J CLEAN PROD, V36, P83, DOI 10.1016/j.jclepro.2012.02.023
+   Liu Y, 2012, SCI TOTAL ENVIRON, V425, P1, DOI 10.1016/j.scitotenv.2012.02.077
+   Lueg R, 2016, EUR MANAG J, V34, P158, DOI 10.1016/j.emj.2015.11.005
+   Mariano EB, 2015, OMEGA-INT J MANAGE S, V54, P33, DOI 10.1016/j.omega.2015.01.002
+   Martin R, 2012, J ENVIRON ECON MANAG, V63, P208, DOI 10.1016/j.jeem.2011.08.003
+   Matthias O, 2017, INT J OPER PROD MAN, V37, P37, DOI 10.1108/IJOPM-02-2015-0084
+   McAfee A, 2012, HARVARD BUS REV, V90, P60
+   McGuigan C., 2002, LONDON SCH EC, P1
+   Misani N, 2015, ECOL ECON, V109, P150, DOI 10.1016/j.ecolecon.2014.11.010
+   Nacoes Unidas no Brasil, 2016, ESC AG POD LIM CRESC
+   Organisation for Economic Co-Operation and Development, 2015, AGR CLIM CHANG
+   Pan SL, 2017, INT J PROD RES, V55, P2603, DOI 10.1080/00207543.2017.1302620
+   PHILIBERT C, 2004, INT ENERGY TECHNOLOG
+   Popoola API, 2017, INT J ADV MANUF TECH, V89, P1443, DOI 10.1007/s00170-016-9170-7
+   Raar J, 2015, J SMALL BUS ENTERP D, V22, P528, DOI 10.1108/JSBED-10-2013-0157
+   Rankin M, 2011, ACCOUNT AUDIT ACCOUN, V24, P1037, DOI 10.1108/09513571111184751
+   Rao P, 2002, INT J OPER PROD MAN, V22, P632, DOI 10.1108/01443570210427668
+   Reid EM, 2009, STRATEGIC MANAGE J, V30, P1157, DOI 10.1002/smj.796
+   Revell A, 2010, BUS STRATEG ENVIRON, V19, P273, DOI 10.1002/bse.628
+   Schaltegger S, 2012, J CLEAN PROD, V36, P1, DOI 10.1016/j.jclepro.2012.06.024
+   Schoenherr T, 2015, J BUS LOGIST, V36, P120, DOI 10.1111/jbl.12082
+   Seuring S, 2012, SUPPLY CHAIN MANAG, V17, P544, DOI 10.1108/13598541211258609
+   Singh Y., 2015, INT J INTERDISCIP MU, V2, P17
+   Song ML, 2017, PROD PLAN CONTROL, V28, P976, DOI 10.1080/09537287.2017.1336801
+   Sprengel DC, 2011, BUS STRATEG ENVIRON, V20, P351, DOI 10.1002/bse.684
+   Sueyoshi T, 2010, EUR J OPER RES, V207, P1742, DOI 10.1016/j.ejor.2010.07.024
+   Sugita M., 2015, ENVIRON MANAGE, V22, P182, DOI [10.1002/csr.1346, DOI 10.1002/CSR.1346]
+   Takahashi T, 2001, J ENVIRON MANAGE, V63, P149, DOI 10.1006/jema.2001.0467
+   Tashakkori A, 2007, J MIX METHOD RES, V1, P3, DOI 10.1177/2345678906293042
+   Thome AMT, 2016, PROD PLAN CONTROL, V27, P408, DOI 10.1080/09537287.2015.1129464
+   Tranfield D, 2003, BRIT J MANAGE, V14, P207, DOI 10.1111/1467-8551.00375
+   Wahyuni D, 2015, J CLEAN PROD, V96, P397, DOI 10.1016/j.jclepro.2014.01.095
+   Walenta J., 2015, SUSTAIN J REC, V8, P121, DOI [10.1089/sus.2015.29002.jw, DOI 10.1089/SUS.2015.29002.JW]
+   Waller MA, 2013, J BUS LOGIST, V34, P77, DOI 10.1111/jbl.12010
+   Wamba SF, 2015, INT J PROD ECON, V165, P234, DOI 10.1016/j.ijpe.2014.12.031
+   Wang G, 2016, INT J PROD ECON, V176, P98, DOI 10.1016/j.ijpe.2016.03.014
+   World Business Council for Sustainable Development, 2004, RUNN RISK
+   Wu KJ, 2017, J CLEAN PROD, V142, P663, DOI 10.1016/j.jclepro.2016.04.040
+   Yu Y, 2016, ENERG POLICY, V92, P432, DOI 10.1016/j.enpol.2016.02.004
+   Zhang YF, 2017, J CLEAN PROD, V142, P626, DOI 10.1016/j.jclepro.2016.07.123
+   Zhu QH, 2006, J CLEAN PROD, V14, P472, DOI 10.1016/j.jclepro.2005.01.003
+   Ziegler A, 2011, ENERG ECON, V33, P1283, DOI 10.1016/j.eneco.2011.03.007
+NR 86
+TC 25
+Z9 26
+U1 4
+U2 61
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0959-6526
+EI 1879-1786
+J9 J CLEAN PROD
+JI J. Clean Prod.
+PD JUL 10
+PY 2018
+VL 189
+BP 763
+EP 774
+DI 10.1016/j.jclepro.2018.04.113
+PG 12
+WC Green & Sustainable Science & Technology; Engineering, Environmental;
+   Environmental Sciences
+SC Science & Technology - Other Topics; Engineering; Environmental Sciences
+   & Ecology
+GA GG5YE
+UT WOS:000432771000069
+OA Green Published
+DA 2021-02-25
+ER
+
+PT J
+AU Beaty, KA
+   Chow, JM
+   Cunha, RLF
+   Das, KK
+   Hulber, MF
+   Kundu, A
+   Michelini, V
+   Palmer, ER
+AF Beaty, K. A.
+   Chow, J. M.
+   Cunha, R. L. F.
+   Das, K. K.
+   Hulber, M. F.
+   Kundu, A.
+   Michelini, V.
+   Palmer, E. R.
+TI Managing sensitive applications in the public cloud
+SO IBM JOURNAL OF RESEARCH AND DEVELOPMENT
+LA English
+DT Article
+ID SOFTWARE
+AB Protecting the security and privacy of data is a paramount concern of enterprises in medical, educational, financial, and other highly regulated industries. While some industries have moved rapidly to take advantage of the cost savings, innovations in data analysis, and many benefits provided by cloud platforms, regulated enterprises with sensitive data have proceeded with caution. In this paper, we explore a fully public cloud-based architecture that is able to handle both service requirements and security requirements. In such a public cloud environment, the traditional notion of static perimeter-based reactive security can leave internal system components vulnerable to accidental data disclosures or malicious attacks originating from within the perimeter. Therefore, ensuring security and compliance of such a solution requires innovation and new approaches in several directions, including proactive log monitoring and analysis of virtually all parts of the cloud-based solution, full end-to-end data encryption from the client through Internet transmission to data storage and analytics in the solution, and robust firewall and network-intrusion detection systems. We discuss many of these techniques as applied to a specific real-world application known as the Watson Genomic Analytics Prototype.
+C1 [Beaty, K. A.; Hulber, M. F.; Kundu, A.; Palmer, E. R.] IBM Res Div, Thomas J Watson Res Ctr, Yorktown Hts, NY 10598 USA.
+   [Chow, J. M.; Michelini, V.] IBM Watson Grp, New York, NY 10003 USA.
+   [Cunha, R. L. F.] IBM Res Div, Brazil Res Lab, Sao Paulo, Brazil.
+   [Das, K. K.] Capital One Enterprise Data Serv, New York, NY 10171 USA.
+RP Beaty, KA; Hulber, MF; Kundu, A; Palmer, ER (corresponding author), IBM Res Div, Thomas J Watson Res Ctr, Yorktown Hts, NY 10598 USA.; Chow, JM; Michelini, V (corresponding author), IBM Watson Grp, New York, NY 10003 USA.; Cunha, RLF (corresponding author), IBM Res Div, Brazil Res Lab, Sao Paulo, Brazil.; Das, KK (corresponding author), Capital One Enterprise Data Serv, New York, NY 10171 USA.
+EM kirkbeaty@us.ibm.com; jmchow@us.ibm.com; renatoc@br.ibm.com;
+   renatoc@br.ibm.com; koushikdas@capitalone.com; hulber@us.ibm.com;
+   akundu@usibm.com; vanessam@us.ibm.com
+RI de Freitas Cunha, Renato Luiz/AAB-7943-2019; Terrones,
+   Mauricio/B-3829-2014
+OI de Freitas Cunha, Renato Luiz/0000-0002-3196-3008; Terrones,
+   Mauricio/0000-0003-0010-2851
+CR Ahn YW, 2013, IEEE NETWORK, V27, P62, DOI 10.1109/MNET.2013.6616117
+   Amazon, CREAT HIPAA COMPL ME
+   [Anonymous], PAYM CARD IND DAT SE
+   Armbrust M, 2010, COMMUN ACM, V53, P50, DOI 10.1145/1721654.1721672
+   Ayad M., ADDRESSING HIPAA SEC
+   Bao RY, 2014, CANCER INFORM, V13, P67, DOI 10.4137/CIN.S13779
+   Faroult S., 2006, THE ART OF SQL
+   Fernandes DAB, 2014, INT J INF SECUR, V13, P113, DOI 10.1007/s10207-013-0208-7
+   Galletta D.F., 2004, J ASSOC INF SYST, V5, P1
+   Gens F., 251730 IDC MARK AN
+   Holtzman D., 2013, HITECH CLOUD CONTROL
+   Humer C., ANTHEM SAYS LEAST 8
+   IBM Corporation, IBM SEC SERV CLIENT
+   Kissel R., 2014, NIST SPECIAL PUB, V800-88
+   Lafortune E., PROGUARD JAVA CLASS
+   Mahalingam M., 2014, 7348 IETF
+   *OFF CIV RIGHTS, SUMM HIPAA PRIV RUL
+   Payment Card Industry (PCI), 2012, PAYM CARD IND PCI PI
+   Pearson S, 2009, CLOUD: 2009 ICSE WORKSHOP ON SOFTWARE ENGINEERING CHALLENGES OF CLOUD COMPUTING, P44, DOI 10.1109/CLOUD.2009.5071532
+   Petri G., 3 FACTORS WILL SIGNI
+   Ren K, 2012, IEEE INTERNET COMPUT, V16, P69, DOI 10.1109/MIC.2012.14
+   Rosenthal A, 2010, J BIOMED INFORM, V43, P342, DOI 10.1016/j.jbi.2009.08.014
+   Sachin S., TARGET NEARS 20 MILL
+   Song XG, 2012, 2012 7TH INTERNATIONAL CONFERENCE ON SYSTEM OF SYSTEMS ENGINEERING (SOSE), P8, DOI 10.1109/SYSoSE.2012.6333450
+   Stytz MR, 2004, IEEE SECUR PRIV, V2, P72, DOI 10.1109/MSECP.2004.1264860
+   Tiwari S., 2011, PROFESSIONAL NOSQL
+   Van Gorp P, 2014, IEEE J BIOMED HEALTH, V18, P36, DOI 10.1109/JBHI.2013.2257821
+   Vogel D., TOP 10 HIPAA DATA BR
+   Wang AJ, 2013, J LIGHTWAVE TECHNOL, V31, P523, DOI 10.1109/JLT.2012.2213796
+NR 29
+TC 3
+Z9 3
+U1 0
+U2 10
+PU IBM CORP
+PI ARMONK
+PA 1 NEW ORCHARD ROAD, ARMONK, NY 10504 USA
+SN 0018-8646
+EI 2151-8556
+J9 IBM J RES DEV
+JI IBM J. Res. Dev.
+PD MAR-MAY
+PY 2016
+VL 60
+IS 2-3
+DI 10.1147/JRD.2015.2513720
+PG 13
+WC Computer Science, Hardware & Architecture; Computer Science, Information
+   Systems; Computer Science, Software Engineering; Computer Science,
+   Theory & Methods
+SC Computer Science
+GA DM2IF
+UT WOS:000376169600005
+DA 2021-02-25
+ER
+
+EF
